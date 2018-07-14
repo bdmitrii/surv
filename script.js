@@ -13123,7 +13123,7 @@ skinImg: {
   baseSprite: 'img/player/player-base-01.svg',
   baseScale: 1,
   handTint: 2711164,
-  handSprite: 'img/player/player-hands-01.svg',
+  handSprite: 'http://furkandogal.com/themes/default/img/share.png',
   backpackTint: 19093
 },
 lootImg: {
