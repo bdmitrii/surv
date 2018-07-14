@@ -15310,17 +15310,17 @@ sound: {
 }
 },
 '2xscope': {
-name: '2x Scope',
-type: 'scope',
-level: 2,
-rad: 1,
-lootImg: {
-  sprite: 'img/loot/loot-scope-01.svg',
-  scale: 0.2,
-  rad: 16,
-  border: !0,
-  tint: 16777215
-},
+  name: '2x Scope',
+  type: 'scope',
+  level: 8,
+  rad: 1,
+  lootImg: {
+    sprite: 'img/loot/loot-scope-03.svg',
+    scale: 0.2,
+    rad: 16,
+    border: !0,
+    tint: 16777215
+  },
 sound: {
   pickup: 'scope_pickup_01'
 }
