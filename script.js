@@ -12463,7 +12463,7 @@ grassVariation: 2,
 extension: 112
 },
 player: {
-radius: 1,
+radius: 3,
 maxVisualRadius: 3.75,
 maxInteractionRad: 3.5,
 minActiveTime: 10,
@@ -15375,10 +15375,10 @@ sound: {
 }
 },
 scopeZoomRadius: {
-'1xscope': 48,
-'2xscope': 36,
-'4xscope': 48,
-'8xscope': 68,
+'1xscope': 104,
+'2xscope': 104,
+'4xscope': 104,
+'8xscope': 104,
 '15xscope': 104
 },
 bagSizes: {
