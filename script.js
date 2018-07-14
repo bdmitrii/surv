@@ -12463,11 +12463,11 @@ grassVariation: 2,
 extension: 112
 },
 player: {
-radius: 3,
+radius: 3.75,
 maxVisualRadius: 3.75,
 maxInteractionRad: 3.5,
 minActiveTime: 10,
-moveSpeed: 12,
+moveSpeed: 22,
 health: 100,
 boostDecay: 0.375,
 boostMoveSpeed: 1.9,
