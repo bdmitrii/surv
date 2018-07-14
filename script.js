@@ -12859,7 +12859,7 @@ skinImg: {
   baseSprite: 'img/player/player-base-01.svg',
   baseScale: 1,
   handTint: 16303476,
-  handSprite: 'http://placeholder.pics/svg/50.svg',
+  handSprite: 'http://placeholder.pics/svg/100x100/AFFF4D-79FFAB',
   backpackTint: 8480055
 },
 lootImg: {
@@ -15294,17 +15294,17 @@ sound: {
 }
 },
 '1xscope': {
-name: '1x Scope',
-type: 'scope',
-level: 1,
-rad: 1,
-lootImg: {
-  sprite: 'img/loot/loot-scope-00.svg',
-  scale: 0.2,
-  rad: 16,
-  border: !0,
-  tint: 16777215
-},
+  name: '1x Scope',
+  type: 'scope',
+  level: 8,
+  rad: 1,
+  lootImg: {
+    sprite: 'img/loot/loot-scope-03.svg',
+    scale: 0.2,
+    rad: 16,
+    border: !0,
+    tint: 16777215
+  },
 sound: {
   pickup: 'scope_pickup_01'
 }
