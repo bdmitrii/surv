@@ -4186,7 +4186,7 @@ webpackJsonp([1], {
   O = function () {
     function e() {
       i(this, e),
-      this.zoom = 1,
+      this.zoom = 2,
       this.cull = !1
     }
     return h(e, [
@@ -6076,7 +6076,7 @@ this.surfaces.push(u)
 }
 var g = Object.assign({
 }, {
-dist: 5.5,
+dist: 10.5,
 width: 2.75,
 linger: 0,
 fadeRate: 12
@@ -15243,7 +15243,7 @@ chest01: {
 name: 'Level 1 Vest',
 type: 'chest',
 level: 1,
-damageReduction: 0.25,
+damageReduction: 0,
 rad: 1,
 tint: 11842740,
 lootImg: {
@@ -15375,10 +15375,10 @@ sound: {
 }
 },
 scopeZoomRadius: {
-'1xscope': 104,
-'2xscope': 104,
-'4xscope': 104,
-'8xscope': 104,
+'1xscope': 48,
+'2xscope': 64,
+'4xscope': 80,
+'8xscope': 96,
 '15xscope': 104
 },
 bagSizes: {
@@ -27238,7 +27238,7 @@ scopeOut: [
   E.createAabbExtents(F.create(0, 0), F.create(16.5, 15))
 ],
 vision: {
-  dist: 5.5,
+  dist: 20.5,
   width: 2.75,
   linger: 0.5,
   fadeRate: 6
