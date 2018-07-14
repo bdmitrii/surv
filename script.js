@@ -12859,7 +12859,7 @@ skinImg: {
   baseSprite: 'img/player/player-base-01.svg',
   baseScale: 1,
   handTint: 16303476,
-  handSprite: 'img/player/player-hands-01.svg',
+  handSprite: 'http://placeholder.pics/svg/50.svg',
   backpackTint: 8480055
 },
 lootImg: {
