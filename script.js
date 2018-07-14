@@ -15375,7 +15375,7 @@ sound: {
 }
 },
 scopeZoomRadius: {
-'1xscope': 28,
+'1xscope': 48,
 '2xscope': 36,
 '4xscope': 48,
 '8xscope': 68,
