@@ -27228,7 +27228,7 @@ webpackJsonp([0], {
                   switchDelay: .75,
                   barrelLength: 3.15,
                   recoilTime: 1e10,
-                  moveSpread: 20.5,
+                  moveSpread: 7.5,
                   shotSpread: 2.5,
                   bulletCount: 1,
                   bulletType: "bullet_ak47",
