@@ -26093,7 +26093,7 @@ webpackJsonp([0], {
                   },
                   lootImg: {
                       sprite: "loot-weapon-fists.img",
-                      scale: .3,
+                      scale: 1,
                       rad: 25,
                       border: !0,
                       tint: 65280
@@ -26710,7 +26710,7 @@ webpackJsonp([0], {
                   },
                   lootImg: {
                       sprite: "loot-weapon-mp5.img",
-                      scale: .3,
+                      scale: 1,
                       tint: 65280
                   },
                   worldImg: {
