@@ -6847,8 +6847,8 @@ webpackJsonp([0], {
                         visionTicker: 0,
                         fadeAlpha: 1
                     };
-                    //for (var y = 0; y < l.ceiling.scopeIn.length; y++)
-                    //    this.ceiling.scopeIn.push(n.transform(l.ceiling.scopeIn[y], this.pos, this.rot, this.scale));
+                    for (var y = 0; y < l.ceiling.scopeIn.length; y++)
+                       this.ceiling.scopeIn.push(n.transform(l.ceiling.scopeIn[y], this.pos, this.rot, this.scale));
                     for (var x = 0; x < l.ceiling.scopeOut.length; x++)
                         this.ceiling.scopeOut.push(n.transform(l.ceiling.scopeOut[x], this.pos, this.rot, this.scale));
                     this.imgs = [];
