@@ -61744,7 +61744,7 @@ webpackJsonp([0], {
                         var u = t.pointToScreen(d.pos)
                           , h = t.pixels(d.rad / t.ppu)
                           , g = d.alpha;
-                        1 == a.layer ? g = 0 : (a.q.scopedIn || 1 & a.layer) && (g = .15),
+                        1 == a.layer ? g = 0 : (a.q.scopedOut || 1 & a.layer) && (g = .15),
                         d.renderAlpha = l.lerp(3 * e, d.renderAlpha, g),
                         d.sprite.position.set(u.x, u.y),
                         d.sprite.scale.set(h, h),
