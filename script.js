@@ -17378,7 +17378,7 @@ webpackJsonp([0], {
                             h: 256
                         }
                     },
-                    "map-tree-03.img": {
+                    "map-stove-01.img": {
                         frame: {
                             x: 3546,
                             y: 2482,
@@ -17398,7 +17398,7 @@ webpackJsonp([0], {
                             h: 256
                         }
                     },
-                    "map-tree-05.img": {
+                    "map-stove-01.img": {
                         frame: {
                             x: 1058,
                             y: 806,
@@ -21298,7 +21298,7 @@ webpackJsonp([0], {
                             h: 128
                         }
                     },
-                    "map-tree-04.img": {
+                    "map-stove-01.img": {
                         frame: {
                             x: 1795,
                             y: 2666,
@@ -36143,7 +36143,7 @@ webpackJsonp([0], {
                             h: 160
                         }
                     },
-                    "map-tree-03.img": {
+                    "map-stove-01.img": {
                         frame: {
                             x: 1658,
                             y: 1760,
@@ -38474,7 +38474,7 @@ webpackJsonp([0], {
                             h: 150
                         }
                     },
-                    "map-tree-05.img": {
+                    "map-stove-01.img": {
                         frame: {
                             x: 814,
                             y: 406,
@@ -41914,7 +41914,7 @@ webpackJsonp([0], {
                             h: 72
                         }
                     },
-                    "map-tree-04.img": {
+                    "map-stove-01.img": {
                         frame: {
                             x: 1213,
                             y: 1896,
@@ -47764,7 +47764,7 @@ webpackJsonp([0], {
                     beach: !1
                 },
                 img: {
-                    sprite: "map-tree-03.img",
+                    sprite: "map-stove-01.img",
                     residue: "map-tree-res.img",
                     scale: .7,
                     alpha: 1,
@@ -49115,7 +49115,7 @@ webpackJsonp([0], {
                     beach: !1
                 },
                 img: {
-                    sprite: "map-tree-04.img",
+                    sprite: "map-stove-01.img",
                     scale: .5,
                     zIdx: 10
                 }
