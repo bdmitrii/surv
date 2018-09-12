@@ -46842,7 +46842,7 @@ webpackJsonp([0], {
                     beach: !1
                 },
                 img: {
-                    sprite: "map-bush-01.img",
+                    sprite: "map-door-02.img",
                     residue: "map-bush-res-01.img",
                     scale: .5,
                     alpha: .97,
@@ -48049,7 +48049,7 @@ webpackJsonp([0], {
             }),
             bush_03: g({
                 img: {
-                    sprite: "map-bush-03.img",
+                    sprite: "map-door-02.img",
                     alpha: 1
                 }
             }),
@@ -48057,7 +48057,7 @@ webpackJsonp([0], {
                 hitParticle: "leafRiver",
                 explodeParticle: "leafRiver",
                 img: {
-                    sprite: "map-bush-04.img",
+                    sprite: "map-door-02.img",
                     residue: "map-bush-res-04.img",
                     alpha: 1,
                     scale: .25
@@ -50292,7 +50292,7 @@ webpackJsonp([0], {
                         wallCount: 2,
                         particle: "shackBreak",
                         particleCount: 25,
-                        residue: "map-shack-res-01.img"
+                        residue: "shack-remove-map-shack-res-01.img"
                     }
                 },
                 mapObjects: [{
