@@ -11065,7 +11065,7 @@ webpackJsonp([0], {
                             h: 1888
                         }
                     },
-                    "map-building-police-floor.img": {
+                    "ceil-remove-map-building-police-floor.img": {
                         frame: {
                             x: 2,
                             y: 2,
@@ -11105,7 +11105,7 @@ webpackJsonp([0], {
                             h: 544
                         }
                     },
-                    "map-building-police-ceiling-02.img": {
+                    "ceil-remove-map-building-police-ceiling-02.img": {
                         frame: {
                             x: 2726,
                             y: 2,
@@ -11125,7 +11125,7 @@ webpackJsonp([0], {
                             h: 1440
                         }
                     },
-                    "map-building-bank-floor-02.img": {
+                    "ceil-remove-map-building-bank-floor-02.img": {
                         frame: {
                             x: 1832,
                             y: 3466,
@@ -11165,7 +11165,7 @@ webpackJsonp([0], {
                             h: 832
                         }
                     },
-                    "map-building-hut-floor-02.img": {
+                    "ceil-remove-map-building-hut-floor-02.img": {
                         frame: {
                             x: 2726,
                             y: 2246,
@@ -11205,7 +11205,7 @@ webpackJsonp([0], {
                             h: 744
                         }
                     },
-                    "map-building-bank-ceiling-01.img": {
+                    "ceil-remove-map-building-bank-ceiling-01.img": {
                         frame: {
                             x: 2726,
                             y: 3017,
@@ -11305,7 +11305,7 @@ webpackJsonp([0], {
                             h: 704
                         }
                     },
-                    "map-building-container-open-floor.img": {
+                    "ceil-remove-map-building-container-open-floor.img": {
                         frame: {
                             x: 3822,
                             y: 726,
@@ -11325,7 +11325,7 @@ webpackJsonp([0], {
                             h: 692
                         }
                     },
-                    "map-building-bank-ceiling-03.img": {
+                    "ceil-remove-map-building-bank-ceiling-03.img": {
                         frame: {
                             x: 3434,
                             y: 2122,
@@ -11345,7 +11345,7 @@ webpackJsonp([0], {
                             h: 736
                         }
                     },
-                    "map-building-dock-floor-01.img": {
+                    "ceil-remove-map-building-dock-floor-01.img": {
                         frame: {
                             x: 3728,
                             y: 2122,
@@ -11405,7 +11405,7 @@ webpackJsonp([0], {
                             h: 540
                         }
                     },
-                    "map-building-container-floor-01.img": {
+                    "ceil-remove-map-building-container-floor-01.img": {
                         frame: {
                             x: 3200,
                             y: 2246,
@@ -11485,7 +11485,7 @@ webpackJsonp([0], {
                             h: 416
                         }
                     },
-                    "map-building-panicroom-ceiling.img": {
+                    "ceil-remove-map-building-panicroom-ceiling.img": {
                         frame: {
                             x: 2406,
                             y: 1574,
@@ -11505,7 +11505,7 @@ webpackJsonp([0], {
                             h: 384
                         }
                     },
-                    "map-building-panicroom-floor.img": {
+                    "ceil-remove-map-building-panicroom-floor.img": {
                         frame: {
                             x: 2406,
                             y: 1962,
@@ -11585,7 +11585,7 @@ webpackJsonp([0], {
                             h: 384
                         }
                     },
-                    "map-building-container-ceiling-01.img": {
+                    "ceil-remove-map-building-container-ceiling-01.img": {
                         frame: {
                             x: 2514,
                             y: 2350,
@@ -11605,7 +11605,7 @@ webpackJsonp([0], {
                             h: 536
                         }
                     },
-                    "map-building-container-ceiling-05.img": {
+                    "ceil-remove-map-building-container-ceiling-05.img": {
                         frame: {
                             x: 2406,
                             y: 2738,
@@ -11665,7 +11665,7 @@ webpackJsonp([0], {
                             h: 352
                         }
                     },
-                    "map-building-house-wall-05.img": {
+                    "ceil-remove-map-building-house-wall-05.img": {
                         frame: {
                             x: 2682,
                             y: 2738,
@@ -11725,7 +11725,7 @@ webpackJsonp([0], {
                             h: 320
                         }
                     },
-                    "map-building-outhouse-floor.img": {
+                    "ceil-remove-map-building-outhouse-floor.img": {
                         frame: {
                             x: 2478,
                             y: 3122,
@@ -12065,7 +12065,7 @@ webpackJsonp([0], {
                             h: 128
                         }
                     },
-                    "map-building-house-window-01.img": {
+                    "ceil-remove-map-building-house-window-01.img": {
                         frame: {
                             x: 3384,
                             y: 2666,
@@ -12496,7 +12496,7 @@ webpackJsonp([0], {
                     scale: 1
                 },
                 frames: {
-                    "map-building-bridge-lg-floor.img": {
+                    "ceil-remove-map-building-bridge-lg-floor.img": {
                         frame: {
                             x: 2054,
                             y: 2,
@@ -12516,7 +12516,7 @@ webpackJsonp([0], {
                             h: 1216
                         }
                     },
-                    "map-building-mansion-floor.img": {
+                    "ceil-remove-map-building-mansion-floor.img": {
                         frame: {
                             x: 2,
                             y: 2,
@@ -12536,7 +12536,7 @@ webpackJsonp([0], {
                             h: 1728
                         }
                     },
-                    "map-building-bank-floor-01.img": {
+                    "ceil-remove-map-building-bank-floor-01.img": {
                         frame: {
                             x: 2054,
                             y: 710,
@@ -12576,7 +12576,7 @@ webpackJsonp([0], {
                             h: 1448
                         }
                     },
-                    "map-building-barn-floor-01.img": {
+                    "ceil-remove-map-building-barn-floor-01.img": {
                         frame: {
                             x: 1699,
                             y: 1723,
@@ -12696,7 +12696,7 @@ webpackJsonp([0], {
                             h: 352
                         }
                     },
-                    "map-building-bridge-md-floor.img": {
+                    "ceil-remove-map-building-bridge-md-floor.img": {
                         frame: {
                             x: 2241,
                             y: 3557,
@@ -12796,7 +12796,7 @@ webpackJsonp([0], {
                             h: 256
                         }
                     },
-                    "map-building-shack-ceiling-01.img": {
+                    "ceil-remove-map-building-shack-ceiling-01.img": {
                         frame: {
                             x: 3141,
                             y: 3557,
@@ -12816,7 +12816,7 @@ webpackJsonp([0], {
                             h: 340
                         }
                     },
-                    "map-building-container-ceiling-03.img": {
+                    "ceil-remove-map-building-container-ceiling-03.img": {
                         frame: {
                             x: 3754,
                             y: 710,
@@ -12836,7 +12836,7 @@ webpackJsonp([0], {
                             h: 536
                         }
                     },
-                    "map-building-container-open-ceiling-01.img": {
+                    "ceil-remove-map-building-container-open-ceiling-01.img": {
                         frame: {
                             x: 3754,
                             y: 1094,
@@ -12876,7 +12876,7 @@ webpackJsonp([0], {
                             h: 180
                         }
                     },
-                    "map-building-saferoom-floor.img": {
+                    "ceil-remove-map-building-saferoom-floor.img": {
                         frame: {
                             x: 3527,
                             y: 2815,
@@ -12896,7 +12896,7 @@ webpackJsonp([0], {
                             h: 224
                         }
                     },
-                    "map-building-saferoom-ceiling.img": {
+                    "ceil-remove-map-building-saferoom-ceiling.img": {
                         frame: {
                             x: 3669,
                             y: 3175,
@@ -12936,7 +12936,7 @@ webpackJsonp([0], {
                             h: 352
                         }
                     },
-                    "map-building-shack-ceiling-02.img": {
+                    "ceil-remove-map-building-shack-ceiling-02.img": {
                         frame: {
                             x: 3565,
                             y: 3557,
@@ -13036,7 +13036,7 @@ webpackJsonp([0], {
                             h: 288
                         }
                     },
-                    "map-building-house-wall-04.img": {
+                    "ceil-remove-map-building-house-wall-04.img": {
                         frame: {
                             x: 3938,
                             y: 1094,
@@ -13116,7 +13116,7 @@ webpackJsonp([0], {
                             h: 256
                         }
                     },
-                    "map-building-house-wall-03.img": {
+                    "ceil-remove-map-building-house-wall-03.img": {
                         frame: {
                             x: 4029,
                             y: 1723,
@@ -13576,7 +13576,7 @@ webpackJsonp([0], {
                             h: 128
                         }
                     },
-                    "map-building-bank-window-res-01.img": {
+                    "ceil-remove-map-building-bank-window-res-01.img": {
                         frame: {
                             x: 2872,
                             y: 1616,
@@ -14707,7 +14707,7 @@ webpackJsonp([0], {
                             h: 928
                         }
                     },
-                    "map-building-barn-ceiling.img": {
+                    "ceil-remove-map-building-barn-ceiling.img": {
                         frame: {
                             x: 2,
                             y: 2,
@@ -14727,7 +14727,7 @@ webpackJsonp([0], {
                             h: 1152
                         }
                     },
-                    "map-building-police-ceiling-01.img": {
+                    "ceil-remove-map-building-police-ceiling-01.img": {
                         frame: {
                             x: 2,
                             y: 982,
@@ -14767,7 +14767,7 @@ webpackJsonp([0], {
                             h: 928
                         }
                     },
-                    "map-building-cabin-floor.img": {
+                    "ceil-remove-map-building-cabin-floor.img": {
                         frame: {
                             x: 2,
                             y: 2500,
@@ -14787,7 +14787,7 @@ webpackJsonp([0], {
                             h: 992
                         }
                     },
-                    "map-building-cabin-ceiling.img": {
+                    "ceil-remove-map-building-cabin-ceiling.img": {
                         frame: {
                             x: 1270,
                             y: 1626,
@@ -14807,7 +14807,7 @@ webpackJsonp([0], {
                             h: 928
                         }
                     },
-                    "map-building-bank-ceiling-02.img": {
+                    "ceil-remove-map-building-bank-ceiling-02.img": {
                         frame: {
                             x: 3113,
                             y: 2,
@@ -14847,7 +14847,7 @@ webpackJsonp([0], {
                             h: 832
                         }
                     },
-                    "map-building-mansion-cellar-01.img": {
+                    "ceil-remove-map-building-mansion-cellar-01.img": {
                         frame: {
                             x: 1222,
                             y: 2500,
@@ -14867,7 +14867,7 @@ webpackJsonp([0], {
                             h: 928
                         }
                     },
-                    "map-building-bridge-lg-ceiling.img": {
+                    "ceil-remove-map-building-bridge-lg-ceiling.img": {
                         frame: {
                             x: 2,
                             y: 3496,
@@ -14887,7 +14887,7 @@ webpackJsonp([0], {
                             h: 576
                         }
                     },
-                    "map-building-warehouse-ceiling-01.img": {
+                    "ceil-remove-map-building-warehouse-ceiling-01.img": {
                         frame: {
                             x: 1094,
                             y: 3496,
@@ -14907,7 +14907,7 @@ webpackJsonp([0], {
                             h: 432
                         }
                     },
-                    "map-building-warehouse-ceiling-02.img": {
+                    "ceil-remove-map-building-warehouse-ceiling-02.img": {
                         frame: {
                             x: 3113,
                             y: 1190,
@@ -14967,7 +14967,7 @@ webpackJsonp([0], {
                             h: 512
                         }
                     },
-                    "map-building-vault-floor.img": {
+                    "ceil-remove-map-building-vault-floor.img": {
                         frame: {
                             x: 3113,
                             y: 2780,
@@ -14987,7 +14987,7 @@ webpackJsonp([0], {
                             h: 674
                         }
                     },
-                    "map-building-vault-ceiling.img": {
+                    "ceil-remove-map-building-vault-ceiling.img": {
                         frame: {
                             x: 2314,
                             y: 2500,
@@ -15047,7 +15047,7 @@ webpackJsonp([0], {
                             h: 560
                         }
                     },
-                    "map-building-shack-floor-01.img": {
+                    "ceil-remove-map-building-shack-floor-01.img": {
                         frame: {
                             x: 1930,
                             y: 3496,
@@ -15067,7 +15067,7 @@ webpackJsonp([0], {
                             h: 340
                         }
                     },
-                    "map-building-container-ceiling-02.img": {
+                    "ceil-remove-map-building-container-ceiling-02.img": {
                         frame: {
                             x: 2859,
                             y: 982,
@@ -15107,7 +15107,7 @@ webpackJsonp([0], {
                             h: 320
                         }
                     },
-                    "map-building-shack-floor-02.img": {
+                    "ceil-remove-map-building-shack-floor-02.img": {
                         frame: {
                             x: 2639,
                             y: 3496,
@@ -15167,7 +15167,7 @@ webpackJsonp([0], {
                             h: 288
                         }
                     },
-                    "map-building-crossing-bathroom-ceiling.img": {
+                    "ceil-remove-map-building-crossing-bathroom-ceiling.img": {
                         frame: {
                             x: 2314,
                             y: 3178,
@@ -15227,7 +15227,7 @@ webpackJsonp([0], {
                             h: 300
                         }
                     },
-                    "map-building-outhouse-ceiling.img": {
+                    "ceil-remove-map-building-outhouse-ceiling.img": {
                         frame: {
                             x: 3519,
                             y: 3496,
@@ -16307,7 +16307,7 @@ webpackJsonp([0], {
                             h: 128
                         }
                     },
-                    "map-building-house-wall-02.img": {
+                    "ceil-remove-map-building-house-wall-02.img": {
                         frame: {
                             x: 4057,
                             y: 2458,
@@ -16587,7 +16587,7 @@ webpackJsonp([0], {
                             h: 128
                         }
                     },
-                    "map-building-bank-window-01.img": {
+                    "ceil-remove-map-building-bank-window-01.img": {
                         frame: {
                             x: 3043,
                             y: 1096,
@@ -16607,7 +16607,7 @@ webpackJsonp([0], {
                             h: 104
                         }
                     },
-                    "map-building-house-window-res-01.img": {
+                    "ceil-remove-map-building-house-window-res-01.img": {
                         frame: {
                             x: 3817,
                             y: 2270,
@@ -16827,7 +16827,7 @@ webpackJsonp([0], {
                             h: 94
                         }
                     },
-                    "map-building-house-wall-01.img": {
+                    "ceil-remove-map-building-house-wall-01.img": {
                         frame: {
                             x: 3817,
                             y: 2482,
@@ -16958,7 +16958,7 @@ webpackJsonp([0], {
                     scale: 1
                 },
                 frames: {
-                    "map-building-warehouse-floor-01.img": {
+                    "ceil-remove-map-building-warehouse-floor-01.img": {
                         frame: {
                             x: 1058,
                             y: 2,
@@ -16998,7 +16998,7 @@ webpackJsonp([0], {
                             h: 1232
                         }
                     },
-                    "map-building-house-floor.img": {
+                    "ceil-remove-map-building-house-floor.img": {
                         frame: {
                             x: 2062,
                             y: 2,
@@ -17018,7 +17018,7 @@ webpackJsonp([0], {
                             h: 992
                         }
                     },
-                    "map-building-house-ceiling.img": {
+                    "ceil-remove-map-building-house-ceiling.img": {
                         frame: {
                             x: 2,
                             y: 1186,
@@ -17038,7 +17038,7 @@ webpackJsonp([0], {
                             h: 864
                         }
                     },
-                    "map-building-mansion-ceiling.img": {
+                    "ceil-remove-map-building-mansion-ceiling.img": {
                         frame: {
                             x: 966,
                             y: 1186,
@@ -17078,7 +17078,7 @@ webpackJsonp([0], {
                             h: 736
                         }
                     },
-                    "map-building-warehouse-floor-02.img": {
+                    "ceil-remove-map-building-warehouse-floor-02.img": {
                         frame: {
                             x: 2,
                             y: 2054,
@@ -17198,7 +17198,7 @@ webpackJsonp([0], {
                             h: 544
                         }
                     },
-                    "map-building-police-ceiling-03.img": {
+                    "ceil-remove-map-building-police-ceiling-03.img": {
                         frame: {
                             x: 3026,
                             y: 1838,
@@ -17218,7 +17218,7 @@ webpackJsonp([0], {
                             h: 640
                         }
                     },
-                    "map-building-hut-ceiling-01.img": {
+                    "ceil-remove-map-building-hut-ceiling-01.img": {
                         frame: {
                             x: 2,
                             y: 2858,
@@ -17238,7 +17238,7 @@ webpackJsonp([0], {
                             h: 544
                         }
                     },
-                    "map-building-hut-ceiling-02.img": {
+                    "ceil-remove-map-building-hut-ceiling-02.img": {
                         frame: {
                             x: 510,
                             y: 2858,
@@ -17298,7 +17298,7 @@ webpackJsonp([0], {
                             h: 512
                         }
                     },
-                    "map-building-hut-floor-01.img": {
+                    "ceil-remove-map-building-hut-floor-01.img": {
                         frame: {
                             x: 2032,
                             y: 2858,
@@ -21809,7 +21809,7 @@ webpackJsonp([0], {
                             h: 256
                         }
                     },
-                    "map-building-mansion-cellar-02.img": {
+                    "ceil-remove-map-building-mansion-cellar-02.img": {
                         frame: {
                             x: 2,
                             y: 2,
@@ -32061,7 +32061,7 @@ webpackJsonp([0], {
                             h: 944
                         }
                     },
-                    "map-building-police-floor.img": {
+                    "ceil-remove-map-building-police-floor.img": {
                         frame: {
                             x: 2,
                             y: 2,
@@ -32101,7 +32101,7 @@ webpackJsonp([0], {
                             h: 272
                         }
                     },
-                    "map-building-police-ceiling-02.img": {
+                    "ceil-remove-map-building-police-ceiling-02.img": {
                         frame: {
                             x: 1366,
                             y: 2,
@@ -32121,7 +32121,7 @@ webpackJsonp([0], {
                             h: 720
                         }
                     },
-                    "map-building-bank-floor-02.img": {
+                    "ceil-remove-map-building-bank-floor-02.img": {
                         frame: {
                             x: 919,
                             y: 1738,
@@ -32161,7 +32161,7 @@ webpackJsonp([0], {
                             h: 416
                         }
                     },
-                    "map-building-hut-floor-02.img": {
+                    "ceil-remove-map-building-hut-floor-02.img": {
                         frame: {
                             x: 1366,
                             y: 1129,
@@ -32201,7 +32201,7 @@ webpackJsonp([0], {
                             h: 372
                         }
                     },
-                    "map-building-bank-ceiling-01.img": {
+                    "ceil-remove-map-building-bank-ceiling-01.img": {
                         frame: {
                             x: 1366,
                             y: 1517,
@@ -32261,7 +32261,7 @@ webpackJsonp([0], {
                             h: 350
                         }
                     },
-                    "map-building-container-open-floor.img": {
+                    "ceil-remove-map-building-container-open-floor.img": {
                         frame: {
                             x: 1918,
                             y: 366,
@@ -32301,7 +32301,7 @@ webpackJsonp([0], {
                             h: 118
                         }
                     },
-                    "map-building-bank-ceiling-03.img": {
+                    "ceil-remove-map-building-bank-ceiling-03.img": {
                         frame: {
                             x: 1722,
                             y: 720,
@@ -32321,7 +32321,7 @@ webpackJsonp([0], {
                             h: 368
                         }
                     },
-                    "map-building-dock-floor-01.img": {
+                    "ceil-remove-map-building-dock-floor-01.img": {
                         frame: {
                             x: 1871,
                             y: 720,
@@ -32401,7 +32401,7 @@ webpackJsonp([0], {
                             h: 304
                         }
                     },
-                    "map-building-container-floor-01.img": {
+                    "ceil-remove-map-building-container-floor-01.img": {
                         frame: {
                             x: 1885,
                             y: 1644,
@@ -32481,7 +32481,7 @@ webpackJsonp([0], {
                             h: 208
                         }
                     },
-                    "map-building-panicroom-ceiling.img": {
+                    "ceil-remove-map-building-panicroom-ceiling.img": {
                         frame: {
                             x: 1206,
                             y: 790,
@@ -32501,7 +32501,7 @@ webpackJsonp([0], {
                             h: 192
                         }
                     },
-                    "map-building-panicroom-floor.img": {
+                    "ceil-remove-map-building-panicroom-floor.img": {
                         frame: {
                             x: 1206,
                             y: 986,
@@ -32521,7 +32521,7 @@ webpackJsonp([0], {
                             h: 192
                         }
                     },
-                    "map-building-container-open-ceiling-01.img": {
+                    "ceil-remove-map-building-container-open-ceiling-01.img": {
                         frame: {
                             x: 1608,
                             y: 1129,
@@ -32601,7 +32601,7 @@ webpackJsonp([0], {
                             h: 192
                         }
                     },
-                    "map-building-container-ceiling-03.img": {
+                    "ceil-remove-map-building-container-ceiling-03.img": {
                         frame: {
                             x: 1226,
                             y: 1182,
@@ -32621,7 +32621,7 @@ webpackJsonp([0], {
                             h: 268
                         }
                     },
-                    "map-building-container-ceiling-05.img": {
+                    "ceil-remove-map-building-container-ceiling-05.img": {
                         frame: {
                             x: 1206,
                             y: 1378,
@@ -32701,7 +32701,7 @@ webpackJsonp([0], {
                             h: 176
                         }
                     },
-                    "map-building-house-wall-05.img": {
+                    "ceil-remove-map-building-house-wall-05.img": {
                         frame: {
                             x: 1340,
                             y: 1182,
@@ -32801,7 +32801,7 @@ webpackJsonp([0], {
                             h: 144
                         }
                     },
-                    "map-building-house-wall-04.img": {
+                    "ceil-remove-map-building-house-wall-04.img": {
                         frame: {
                             x: 1697,
                             y: 1325,
@@ -33461,7 +33461,7 @@ webpackJsonp([0], {
                             h: 14
                         }
                     },
-                    "map-building-outhouse-floor.img": {
+                    "ceil-remove-map-building-outhouse-floor.img": {
                         frame: {
                             x: 1206,
                             y: 1573,
@@ -33492,7 +33492,7 @@ webpackJsonp([0], {
                     scale: .5
                 },
                 frames: {
-                    "map-building-bridge-lg-floor.img": {
+                    "ceil-remove-map-building-bridge-lg-floor.img": {
                         frame: {
                             x: 1030,
                             y: 2,
@@ -33512,7 +33512,7 @@ webpackJsonp([0], {
                             h: 608
                         }
                     },
-                    "map-building-mansion-floor.img": {
+                    "ceil-remove-map-building-mansion-floor.img": {
                         frame: {
                             x: 2,
                             y: 2,
@@ -33532,7 +33532,7 @@ webpackJsonp([0], {
                             h: 864
                         }
                     },
-                    "map-building-bank-floor-01.img": {
+                    "ceil-remove-map-building-bank-floor-01.img": {
                         frame: {
                             x: 1030,
                             y: 360,
@@ -33572,7 +33572,7 @@ webpackJsonp([0], {
                             h: 724
                         }
                     },
-                    "map-building-barn-floor-01.img": {
+                    "ceil-remove-map-building-barn-floor-01.img": {
                         frame: {
                             x: 853,
                             y: 866,
@@ -33692,7 +33692,7 @@ webpackJsonp([0], {
                             h: 176
                         }
                     },
-                    "map-building-bridge-md-floor.img": {
+                    "ceil-remove-map-building-bridge-md-floor.img": {
                         frame: {
                             x: 1126,
                             y: 1788,
@@ -33792,7 +33792,7 @@ webpackJsonp([0], {
                             h: 128
                         }
                     },
-                    "map-building-container-ceiling-02.img": {
+                    "ceil-remove-map-building-container-ceiling-02.img": {
                         frame: {
                             x: 1882,
                             y: 360,
@@ -33812,7 +33812,7 @@ webpackJsonp([0], {
                             h: 268
                         }
                     },
-                    "map-building-container-ceiling-01.img": {
+                    "ceil-remove-map-building-container-ceiling-01.img": {
                         frame: {
                             x: 1882,
                             y: 555,
@@ -33852,7 +33852,7 @@ webpackJsonp([0], {
                             h: 90
                         }
                     },
-                    "map-building-saferoom-ceiling.img": {
+                    "ceil-remove-map-building-saferoom-ceiling.img": {
                         frame: {
                             x: 1425,
                             y: 1414,
@@ -33872,7 +33872,7 @@ webpackJsonp([0], {
                             h: 112
                         }
                     },
-                    "map-building-saferoom-floor.img": {
+                    "ceil-remove-map-building-saferoom-floor.img": {
                         frame: {
                             x: 1605,
                             y: 1414,
@@ -33912,7 +33912,7 @@ webpackJsonp([0], {
                             h: 170
                         }
                     },
-                    "map-building-crossing-bathroom-ceiling.img": {
+                    "ceil-remove-map-building-crossing-bathroom-ceiling.img": {
                         frame: {
                             x: 1785,
                             y: 1414,
@@ -33972,7 +33972,7 @@ webpackJsonp([0], {
                             h: 48
                         }
                     },
-                    "map-building-outhouse-ceiling.img": {
+                    "ceil-remove-map-building-outhouse-ceiling.img": {
                         frame: {
                             x: 1872,
                             y: 1788,
@@ -34032,7 +34032,7 @@ webpackJsonp([0], {
                             h: 74
                         }
                     },
-                    "map-building-house-wall-03.img": {
+                    "ceil-remove-map-building-house-wall-03.img": {
                         frame: {
                             x: 2012,
                             y: 360,
@@ -34572,7 +34572,7 @@ webpackJsonp([0], {
                             h: 64
                         }
                     },
-                    "map-building-bank-window-res-01.img": {
+                    "ceil-remove-map-building-bank-window-res-01.img": {
                         frame: {
                             x: 1542,
                             y: 817,
@@ -35703,7 +35703,7 @@ webpackJsonp([0], {
                             h: 464
                         }
                     },
-                    "map-building-barn-ceiling.img": {
+                    "ceil-remove-map-building-barn-ceiling.img": {
                         frame: {
                             x: 2,
                             y: 2,
@@ -35723,7 +35723,7 @@ webpackJsonp([0], {
                             h: 576
                         }
                     },
-                    "map-building-police-ceiling-01.img": {
+                    "ceil-remove-map-building-police-ceiling-01.img": {
                         frame: {
                             x: 2,
                             y: 496,
@@ -35763,7 +35763,7 @@ webpackJsonp([0], {
                             h: 464
                         }
                     },
-                    "map-building-cabin-ceiling.img": {
+                    "ceil-remove-map-building-cabin-ceiling.img": {
                         frame: {
                             x: 638,
                             y: 820,
@@ -35783,7 +35783,7 @@ webpackJsonp([0], {
                             h: 464
                         }
                     },
-                    "map-building-cabin-floor.img": {
+                    "ceil-remove-map-building-cabin-floor.img": {
                         frame: {
                             x: 2,
                             y: 1260,
@@ -35803,7 +35803,7 @@ webpackJsonp([0], {
                             h: 496
                         }
                     },
-                    "map-building-bank-ceiling-02.img": {
+                    "ceil-remove-map-building-bank-ceiling-02.img": {
                         frame: {
                             x: 1562,
                             y: 2,
@@ -35843,7 +35843,7 @@ webpackJsonp([0], {
                             h: 416
                         }
                     },
-                    "map-building-mansion-cellar-01.img": {
+                    "ceil-remove-map-building-mansion-cellar-01.img": {
                         frame: {
                             x: 614,
                             y: 1260,
@@ -35863,7 +35863,7 @@ webpackJsonp([0], {
                             h: 464
                         }
                     },
-                    "map-building-bridge-lg-ceiling.img": {
+                    "ceil-remove-map-building-bridge-lg-ceiling.img": {
                         frame: {
                             x: 2,
                             y: 1760,
@@ -35883,7 +35883,7 @@ webpackJsonp([0], {
                             h: 288
                         }
                     },
-                    "map-building-warehouse-ceiling-01.img": {
+                    "ceil-remove-map-building-warehouse-ceiling-01.img": {
                         frame: {
                             x: 550,
                             y: 1760,
@@ -35903,7 +35903,7 @@ webpackJsonp([0], {
                             h: 216
                         }
                     },
-                    "map-building-warehouse-ceiling-02.img": {
+                    "ceil-remove-map-building-warehouse-ceiling-02.img": {
                         frame: {
                             x: 1562,
                             y: 599,
@@ -35983,7 +35983,7 @@ webpackJsonp([0], {
                             h: 352
                         }
                     },
-                    "map-building-vault-ceiling.img": {
+                    "ceil-remove-map-building-vault-ceiling.img": {
                         frame: {
                             x: 1162,
                             y: 1260,
@@ -36023,7 +36023,7 @@ webpackJsonp([0], {
                             h: 280
                         }
                     },
-                    "map-building-hut-ceiling-01.img": {
+                    "ceil-remove-map-building-hut-ceiling-01.img": {
                         frame: {
                             x: 1252,
                             y: 820,
@@ -36043,7 +36043,7 @@ webpackJsonp([0], {
                             h: 272
                         }
                     },
-                    "map-building-shack-ceiling-01.img": {
+                    "ceil-remove-map-building-shack-ceiling-01.img": {
                         frame: {
                             x: 1252,
                             y: 1087,
@@ -36063,7 +36063,7 @@ webpackJsonp([0], {
                             h: 170
                         }
                     },
-                    "map-building-shack-floor-01.img": {
+                    "ceil-remove-map-building-shack-floor-01.img": {
                         frame: {
                             x: 970,
                             y: 1760,
@@ -36083,7 +36083,7 @@ webpackJsonp([0], {
                             h: 170
                         }
                     },
-                    "map-building-shack-floor-02.img": {
+                    "ceil-remove-map-building-shack-floor-02.img": {
                         frame: {
                             x: 1166,
                             y: 1760,
@@ -36123,7 +36123,7 @@ webpackJsonp([0], {
                             h: 160
                         }
                     },
-                    "map-building-shack-ceiling-02.img": {
+                    "ceil-remove-map-building-shack-ceiling-02.img": {
                         frame: {
                             x: 1494,
                             y: 1760,
@@ -37283,7 +37283,7 @@ webpackJsonp([0], {
                             h: 64
                         }
                     },
-                    "map-building-house-wall-02.img": {
+                    "ceil-remove-map-building-house-wall-02.img": {
                         frame: {
                             x: 2014,
                             y: 1569,
@@ -37663,7 +37663,7 @@ webpackJsonp([0], {
                             h: 64
                         }
                     },
-                    "map-building-bank-window-01.img": {
+                    "ceil-remove-map-building-bank-window-01.img": {
                         frame: {
                             x: 1522,
                             y: 612,
@@ -37683,7 +37683,7 @@ webpackJsonp([0], {
                             h: 52
                         }
                     },
-                    "map-building-house-window-01.img": {
+                    "ceil-remove-map-building-house-window-01.img": {
                         frame: {
                             x: 1913,
                             y: 1400,
@@ -37703,7 +37703,7 @@ webpackJsonp([0], {
                             h: 52
                         }
                     },
-                    "map-building-house-window-res-01.img": {
+                    "ceil-remove-map-building-house-window-res-01.img": {
                         frame: {
                             x: 1522,
                             y: 668,
@@ -37963,7 +37963,7 @@ webpackJsonp([0], {
                             h: 64
                         }
                     },
-                    "map-building-house-wall-01.img": {
+                    "ceil-remove-map-building-house-wall-01.img": {
                         frame: {
                             x: 1542,
                             y: 1164,
@@ -38014,7 +38014,7 @@ webpackJsonp([0], {
                     scale: .5
                 },
                 frames: {
-                    "map-building-warehouse-floor-01.img": {
+                    "ceil-remove-map-building-warehouse-floor-01.img": {
                         frame: {
                             x: 532,
                             y: 2,
@@ -38054,7 +38054,7 @@ webpackJsonp([0], {
                             h: 616
                         }
                     },
-                    "map-building-house-floor.img": {
+                    "ceil-remove-map-building-house-floor.img": {
                         frame: {
                             x: 1036,
                             y: 2,
@@ -38074,7 +38074,7 @@ webpackJsonp([0], {
                             h: 496
                         }
                     },
-                    "map-building-house-ceiling.img": {
+                    "ceil-remove-map-building-house-ceiling.img": {
                         frame: {
                             x: 2,
                             y: 596,
@@ -38094,7 +38094,7 @@ webpackJsonp([0], {
                             h: 432
                         }
                     },
-                    "map-building-mansion-ceiling.img": {
+                    "ceil-remove-map-building-mansion-ceiling.img": {
                         frame: {
                             x: 486,
                             y: 596,
@@ -38134,7 +38134,7 @@ webpackJsonp([0], {
                             h: 368
                         }
                     },
-                    "map-building-warehouse-floor-02.img": {
+                    "ceil-remove-map-building-warehouse-floor-02.img": {
                         frame: {
                             x: 2,
                             y: 1032,
@@ -38254,7 +38254,7 @@ webpackJsonp([0], {
                             h: 272
                         }
                     },
-                    "map-building-vault-floor.img": {
+                    "ceil-remove-map-building-vault-floor.img": {
                         frame: {
                             x: 1520,
                             y: 927,
@@ -38274,7 +38274,7 @@ webpackJsonp([0], {
                             h: 337
                         }
                     },
-                    "map-building-police-ceiling-03.img": {
+                    "ceil-remove-map-building-police-ceiling-03.img": {
                         frame: {
                             x: 2,
                             y: 1436,
@@ -38294,7 +38294,7 @@ webpackJsonp([0], {
                             h: 320
                         }
                     },
-                    "map-building-hut-ceiling-02.img": {
+                    "ceil-remove-map-building-hut-ceiling-02.img": {
                         frame: {
                             x: 343,
                             y: 1436,
@@ -38354,7 +38354,7 @@ webpackJsonp([0], {
                             h: 256
                         }
                     },
-                    "map-building-hut-floor-01.img": {
+                    "ceil-remove-map-building-hut-floor-01.img": {
                         frame: {
                             x: 1113,
                             y: 1436,
@@ -42816,7 +42816,7 @@ webpackJsonp([0], {
                             h: 128
                         }
                     },
-                    "map-building-mansion-cellar-02.img": {
+                    "ceil-remove-map-building-mansion-cellar-02.img": {
                         frame: {
                             x: 2,
                             y: 2,
@@ -47062,7 +47062,7 @@ webpackJsonp([0], {
                         collision: [e.open ? R.createAabbExtents(q.create(0, 0), q.create(2.5, 11)) : R.createAabbExtents(q.create(0, 0), q.create(2.5, 8))]
                     }],
                     imgs: [{
-                        sprite: e.open ? "map-building-container-open-floor.img" : "map-building-container-floor-01.img",
+                        sprite: e.open ? "ceil-remove-map-building-container-open-floor.img" : "ceil-remove-map-building-container-floor-01.img",
                         scale: .5,
                         alpha: 1,
                         tint: e.tint
@@ -47628,13 +47628,13 @@ webpackJsonp([0], {
                         collision: [R.createAabbExtents(q.create(0, 0), q.create(7, 7)), R.createAabbExtents(q.create(0, -18.9), q.create(2, 12))]
                     }],
                     imgs: [{
-                        sprite: "map-building-hut-floor-01.img",
+                        sprite: "ceil-remove-map-building-hut-floor-01.img",
                         pos: q.create(0, 0),
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
                     }, {
-                        sprite: "map-building-hut-floor-02.img",
+                        sprite: "ceil-remove-map-building-hut-floor-02.img",
                         pos: q.create(0, -18.9),
                         scale: .5,
                         alpha: 1,
@@ -47648,7 +47648,7 @@ webpackJsonp([0], {
                         width: 40
                     },
                     imgs: [{
-                        sprite: e.ceilingImg || "map-building-hut-ceiling-01.img",
+                        sprite: e.ceilingImg || "ceil-remove-map-building-hut-ceiling-01.img",
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
@@ -47800,7 +47800,7 @@ webpackJsonp([0], {
                 loot: [],
                 destroyType: "house_window_broken_01",
                 img: {
-                    sprite: "map-building-house-window-01.img",
+                    sprite: "ceil-remove-map-building-house-window-01.img",
                     residue: "none",
                     scale: .5,
                     alpha: 1,
@@ -47835,7 +47835,7 @@ webpackJsonp([0], {
                 reflectBullets: !1,
                 loot: [],
                 img: {
-                    sprite: "map-building-house-window-res-01.img",
+                    sprite: "ceil-remove-map-building-house-window-res-01.img",
                     scale: .5,
                     alpha: 1,
                     tint: 4456448,
@@ -48787,7 +48787,7 @@ webpackJsonp([0], {
                     scopeIn: [R.createAabbExtents(q.create(0, 2.4), q.create(2.5, 5.75))],
                     scopeOut: [R.createAabbExtents(q.create(0, 2.4), q.create(2.5, 5.75))],
                     imgs: [{
-                        sprite: "map-building-container-ceiling-05.img",
+                        sprite: "ceil-remove-ceil-remove-map-building-container-ceiling-05.img",
                         scale: .5,
                         alpha: 1,
                         tint: 11485762
@@ -49301,8 +49301,8 @@ webpackJsonp([0], {
                 reflectBullets: !1,
                 loot: [],
                 img: {
-                    sprite: "map-building-bank-window-01.img",
-                    residue: "map-building-bank-window-res-01.img",
+                    sprite: "ceil-remove-map-building-bank-window-01.img",
+                    residue: "ceil-remove-map-building-bank-window-res-01.img",
                     scale: .5,
                     alpha: 1,
                     tint: 16777215,
@@ -49501,7 +49501,7 @@ webpackJsonp([0], {
             }),
             hut_01: D({}),
             hut_02: D({
-                ceilingImg: "map-building-hut-ceiling-02.img",
+                ceilingImg: "ceiling-remove-ceil-remove-map-building-hut-ceiling-02.img",
                 specialLoot: "pot_02"
             }),
             screen_01: {
@@ -49579,13 +49579,13 @@ webpackJsonp([0], {
                             collision: [R.createAabbExtents(q.create(0, 0), q.create(32, 12.5))]
                         }],
                         imgs: [{
-                            sprite: "map-building-warehouse-floor-01.img",
+                            sprite: "ceil-remove-map-building-warehouse-floor-01.img",
                             pos: q.create(-15.615, 0),
                             scale: .5,
                             alpha: 1,
                             tint: 16777215
                         }, {
-                            sprite: "map-building-warehouse-floor-01.img",
+                            sprite: "ceil-remove-map-building-warehouse-floor-01.img",
                             pos: q.create(15.615, 0),
                             scale: .5,
                             alpha: 1,
@@ -49601,7 +49601,7 @@ webpackJsonp([0], {
                             width: 5
                         },
                         imgs: [{
-                            sprite: "map-building-warehouse-ceiling-01.img",
+                            sprite: "ceiling-remove-ceil-remove-map-building-warehouse-ceiling-01.img",
                             scale: 1,
                             alpha: 1,
                             tint: 16777215
@@ -49747,14 +49747,14 @@ webpackJsonp([0], {
                             collision: [R.createAabbExtents(q.create(0, 0), q.create(27.5, 12.5))]
                         }],
                         imgs: [{
-                            sprite: "map-building-warehouse-floor-02.img",
+                            sprite: "ceil-remove-map-building-warehouse-floor-02.img",
                             pos: q.create(-13.72, 0),
                             scale: .5,
                             alpha: 1,
                             tint: 16777215,
                             rot: 0
                         }, {
-                            sprite: "map-building-warehouse-floor-02.img",
+                            sprite: "ceil-remove-map-building-warehouse-floor-02.img",
                             pos: q.create(13.72, 0),
                             scale: .5,
                             alpha: 1,
@@ -49770,7 +49770,7 @@ webpackJsonp([0], {
                             width: 5
                         },
                         imgs: [{
-                            sprite: "map-building-warehouse-ceiling-02.img",
+                            sprite: "ceiling-remove-ceil-remove-map-building-warehouse-ceiling-02.img",
                             scale: 1,
                             alpha: 1,
                             tint: 16777215
@@ -50270,7 +50270,7 @@ webpackJsonp([0], {
                         collision: [R.createAabbExtents(q.create(0, .9), q.create(5.6, 3.5)), R.createAabbExtents(q.create(3.75, -4), q.create(2.25, 1.5))]
                     }],
                     imgs: [{
-                        sprite: "map-building-shack-floor-01.img",
+                        sprite: "ceil-remove-map-building-shack-floor-01.img",
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
@@ -50283,7 +50283,7 @@ webpackJsonp([0], {
                         width: 4
                     },
                     imgs: [{
-                        sprite: "map-building-shack-ceiling-01.img",
+                        sprite: "ceiling-map-ceil-remove-map-building-shack-ceiling-01.img",
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
@@ -50361,7 +50361,7 @@ webpackJsonp([0], {
                         collision: [R.createAabbExtents(q.create(0, 1), q.create(5, 4)), R.createAabbExtents(q.create(3.75, -4), q.create(2.25, 1.5))]
                     }],
                     imgs: [{
-                        sprite: "map-building-shack-floor-02.img",
+                        sprite: "ceil-remove-map-building-shack-floor-02.img",
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
@@ -50374,7 +50374,7 @@ webpackJsonp([0], {
                         width: 4
                     },
                     imgs: [{
-                        sprite: "map-building-shack-ceiling-02.img",
+                        sprite: "ceiling-remove-ceil-remove-map-building-shack-ceiling-02.img",
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
@@ -50470,7 +50470,7 @@ webpackJsonp([0], {
                         collision: [R.createAabbExtents(q.create(0, 0), q.create(3.8, 5))]
                     }],
                     imgs: [{
-                        sprite: "map-building-outhouse-floor.img",
+                        sprite: "ceil-remove-map-building-outhouse-floor.img",
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
@@ -50480,7 +50480,7 @@ webpackJsonp([0], {
                     scopeIn: [R.createAabbExtents(q.create(0, 1.45), q.create(3.6, 3.2))],
                     scopeOut: [R.createAabbExtents(q.create(0, 1.4), q.create(3.8, 3.4))],
                     imgs: [{
-                        sprite: "map-building-outhouse-ceiling.img",
+                        sprite: "ceiling-remove-ceil-remove-map-building-outhouse-ceiling.img",
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
@@ -50892,7 +50892,7 @@ webpackJsonp([0], {
                         collision: [R.createAabbExtents(q.create(0, 0), q.create(4.5, 6))]
                     }],
                     imgs: [{
-                        sprite: "map-building-panicroom-floor.img",
+                        sprite: "ceil-remove-map-building-panicroom-floor.img",
                         scale: .5,
                         alpha: 1,
                         tint: 6250335
@@ -50902,7 +50902,7 @@ webpackJsonp([0], {
                     scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(4.5, 6))],
                     scopeOut: [R.createAabbExtents(q.create(0, 0), q.create(4.5, 6))],
                     imgs: [{
-                        sprite: "map-building-panicroom-ceiling.img",
+                        sprite: "ceiling-remove-ceil-remove-map-building-panicroom-ceiling.img",
                         scale: .5,
                         alpha: 1,
                         tint: 6250335
@@ -51020,7 +51020,7 @@ webpackJsonp([0], {
                         collision: [R.createAabbExtents(q.create(0, -2), q.create(25, 13.2)), R.createAabbExtents(q.create(0, 12), q.create(5.5, 2.5))]
                     }],
                     imgs: [{
-                        sprite: "map-building-barn-floor-01.img",
+                        sprite: "ceil-remove-map-building-barn-floor-01.img",
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
@@ -51036,7 +51036,7 @@ webpackJsonp([0], {
                         fadeRate: 6
                     },
                     imgs: [{
-                        sprite: "map-building-barn-ceiling.img",
+                        sprite: "ceiling-remove-ceil-remove-map-building-barn-ceiling.img",
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
@@ -51418,13 +51418,13 @@ webpackJsonp([0], {
                         collision: [R.createAabbExtents(q.create(6, -1), q.create(11.25, 18.25)), R.createAabbExtents(q.create(21.5, 4), q.create(4.75, 7.25))]
                     }],
                     imgs: [{
-                        sprite: "map-building-bank-floor-01.img",
+                        sprite: "ceil-remove-map-building-bank-floor-01.img",
                         pos: q.create(0, 6.96),
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
                     }, {
-                        sprite: "map-building-bank-floor-02.img",
+                        sprite: "ceil-remove-map-building-bank-floor-02.img",
                         pos: q.create(9.5, -12.5),
                         scale: .5,
                         alpha: 1,
@@ -51441,19 +51441,19 @@ webpackJsonp([0], {
                         fadeRate: 6
                     },
                     imgs: [{
-                        sprite: "map-building-bank-ceiling-01.img",
+                        sprite: "ceiling-remove-ceil-remove-map-building-bank-ceiling-01.img",
                         pos: q.create(-16, 7),
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
                     }, {
-                        sprite: "map-building-bank-ceiling-02.img",
+                        sprite: "ceil-remove-map-building-bank-ceiling-02.img",
                         pos: q.create(6, 0),
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
                     }, {
-                        sprite: "map-building-bank-ceiling-03.img",
+                        sprite: "ceil-remove-map-building-bank-ceiling-03.img",
                         pos: q.create(21.96, 8),
                         scale: .5,
                         alpha: 1,
@@ -51768,7 +51768,7 @@ webpackJsonp([0], {
                         collision: [R.createAabbExtents(q.create(-3.5, 0), q.create(10, 10.5))]
                     }],
                     imgs: [{
-                        sprite: "map-building-vault-floor.img",
+                        sprite: "ceil-remove-map-building-vault-floor.img",
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
@@ -51784,7 +51784,7 @@ webpackJsonp([0], {
                         fadeRate: 6
                     },
                     imgs: [{
-                        sprite: "map-building-vault-ceiling.img",
+                        sprite: "ceil-remove-ceil-remove-map-building-vault-ceiling.img",
                         scale: .5,
                         alpha: 1,
                         tint: 6250335
@@ -51972,7 +51972,7 @@ webpackJsonp([0], {
                         collision: [R.createAabbExtents(q.create(-21.5, -13), q.create(21, 11.5)), R.createAabbExtents(q.create(-3.5, 2), q.create(3, 3.5))]
                     }],
                     imgs: [{
-                        sprite: "map-building-police-floor.img",
+                        sprite: "ceil-remove-map-building-police-floor.img",
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
@@ -51988,19 +51988,19 @@ webpackJsonp([0], {
                         fadeRate: 6
                     },
                     imgs: [{
-                        sprite: "map-building-police-ceiling-01.img",
+                        sprite: "ceil-remove-ceil-remove-map-building-police-ceiling-01.img",
                         pos: q.create(-21.5, 8.5),
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
                     }, {
-                        sprite: "map-building-police-ceiling-02.img",
+                        sprite: "ceil-remove-ceil-remove-map-building-police-ceiling-02.img",
                         pos: q.create(10.5, 0),
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
                     }, {
-                        sprite: "map-building-police-ceiling-03.img",
+                        sprite: "ceil-remove-map-building-police-ceiling-03.img",
                         pos: q.create(31.96, 12.5),
                         scale: .5,
                         alpha: 1,
@@ -52526,7 +52526,7 @@ webpackJsonp([0], {
                         collision: [R.createAabbExtents(q.create(0, 0), q.create(14.5, 13))]
                     }],
                     imgs: [{
-                        sprite: "map-building-house-floor.img",
+                        sprite: "ceil-remove-map-building-house-floor.img",
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
@@ -52542,7 +52542,7 @@ webpackJsonp([0], {
                         fadeRate: 6
                     },
                     imgs: [{
-                        sprite: "map-building-house-ceiling.img",
+                        sprite: "ceil-remove-map-building-house-ceiling.img",
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
@@ -52801,7 +52801,7 @@ webpackJsonp([0], {
                         collision: [R.createAabbExtents(q.create(4, -14), q.create(3, 2.5)), R.createAabbExtents(q.create(-4, 13.5), q.create(2, 1))]
                     }],
                     imgs: [{
-                        sprite: "map-building-cabin-floor.img",
+                        sprite: "ceil-remove-map-building-cabin-floor.img",
                         pos: q.create(0, -1),
                         scale: .5,
                         alpha: 1,
@@ -52818,7 +52818,7 @@ webpackJsonp([0], {
                         fadeRate: 6
                     },
                     imgs: [{
-                        sprite: "map-building-cabin-ceiling.img",
+                        sprite: "ceil-remove-map-building-cabin-ceiling.img",
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
@@ -53043,7 +53043,7 @@ webpackJsonp([0], {
                         collision: [R.createAabbExtents(q.create(2.5, 0), q.create(2.4, 10.25)), R.createAabbExtents(q.create(-2.45, 7.75), q.create(2.6, 2.5))]
                     }],
                     imgs: [{
-                        sprite: "map-building-dock-floor-01.img",
+                        sprite: "ceil-remove-map-building-dock-floor-01.img",
                         pos: q.create(0, 0),
                         scale: .5,
                         alpha: 1,
@@ -53154,7 +53154,7 @@ webpackJsonp([0], {
                         collision: [R.createAabbExtents(q.create(0, 0), q.create(6, 4))]
                     }],
                     imgs: [{
-                        sprite: "map-building-saferoom-floor.img",
+                        sprite: "ceil-remove-map-building-saferoom-floor.img",
                         scale: .5,
                         alpha: 1,
                         tint: 6250335
@@ -53164,7 +53164,7 @@ webpackJsonp([0], {
                     scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(5, 3))],
                     scopeOut: [R.createAabbExtents(q.create(0, 0), q.create(5, 3))],
                     imgs: [{
-                        sprite: "map-building-saferoom-ceiling.img",
+                        sprite: "ceil-remove-map-building-saferoom-ceiling.img",
                         scale: .5,
                         alpha: 1,
                         tint: 6250335
@@ -53242,7 +53242,7 @@ webpackJsonp([0], {
                         collision: [R.createAabbExtents(q.create(1, 13), q.create(2, 3.25))]
                     }],
                     imgs: [{
-                        sprite: "map-building-mansion-floor.img",
+                        sprite: "ceil-remove-map-building-mansion-floor.img",
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
@@ -53258,7 +53258,7 @@ webpackJsonp([0], {
                         fadeRate: 6
                     },
                     imgs: [{
-                        sprite: "map-building-mansion-ceiling.img",
+                        sprite: "ceil-remove-map-building-mansion-ceiling.img",
                         scale: 1,
                         alpha: 1,
                         tint: 16777215
@@ -53719,13 +53719,13 @@ webpackJsonp([0], {
                         collision: [R.createAabbExtents(q.create(18, 3), q.create(7, 13)), R.createAabbExtents(q.create(5, 0), q.create(6, 10))]
                     }],
                     imgs: [{
-                        sprite: "map-building-mansion-cellar-02.img",
+                        sprite: "ceil-remove-map-building-mansion-cellar-02.img",
                         pos: q.create(-3.75, .25),
                         scale: 2,
                         alpha: 1,
                         tint: 16777215
                     }, {
-                        sprite: "map-building-mansion-cellar-01.img",
+                        sprite: "ceil-remove-map-building-mansion-cellar-01.img",
                         pos: q.create(15, 3.5),
                         scale: .5,
                         alpha: 1,
@@ -55171,7 +55171,7 @@ webpackJsonp([0], {
                         fadeRate: 6
                     },
                     imgs: [{
-                        sprite: "map-building-shack-ceiling-01.img",
+                        sprite: "ceil-remove-map-building-shack-ceiling-01.img",
                         pos: q.create(-1, 10),
                         scale: .5,
                         alpha: 1,
@@ -56267,7 +56267,7 @@ webpackJsonp([0], {
                     scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(3.75, 2))],
                     scopeOut: [R.createAabbExtents(q.create(0, 0), q.create(3.75, 2))],
                     imgs: [{
-                        sprite: "map-building-crossing-bathroom-ceiling.img",
+                        sprite: "ceil-remove-map-building-crossing-bathroom-ceiling.img",
                         scale: .5,
                         alpha: 1,
                         tint: 6250335
@@ -56640,7 +56640,7 @@ webpackJsonp([0], {
                         collision: [R.createAabbExtents(q.create(0, 0), q.create(31.5, 8))]
                     }],
                     imgs: [{
-                        sprite: "map-building-bridge-lg-floor.img",
+                        sprite: "ceil-remove-map-building-bridge-lg-floor.img",
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
@@ -56653,7 +56653,7 @@ webpackJsonp([0], {
                         dist: 10
                     },
                     imgs: [{
-                        sprite: "map-building-bridge-lg-ceiling.img",
+                        sprite: "ceil-remove-map-building-bridge-lg-ceiling.img",
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
@@ -56907,7 +56907,7 @@ webpackJsonp([0], {
                         collision: [R.createAabbExtents(q.create(0, 0), q.create(13.5, 3.5))]
                     }],
                     imgs: [{
-                        sprite: "map-building-bridge-md-floor.img",
+                        sprite: "ceil-remove-map-building-bridge-md-floor.img",
                         scale: .5,
                         alpha: 1,
                         tint: 16777215
@@ -57039,27 +57039,27 @@ webpackJsonp([0], {
             container_01: w({
                 open: !1,
                 tint: 2703694,
-                ceilingSprite: "map-building-container-ceiling-01.img"
+                ceilingSprite: "ceil-remove-map-building-container-ceiling-01.img"
             }),
             container_02: w({
                 open: !1,
                 tint: 2703694,
-                ceilingSprite: "map-building-container-ceiling-02.img"
+                ceilingSprite: "ceil-remove-map-building-container-ceiling-02.img"
             }),
             container_03: w({
                 open: !1,
                 tint: 2703694,
-                ceilingSprite: "map-building-container-ceiling-03.img"
+                ceilingSprite: "ceil-remove-map-building-container-ceiling-03.img"
             }),
             container_04: w({
                 open: !0,
                 tint: 3560807,
-                ceilingSprite: "map-building-container-open-ceiling-01.img"
+                ceilingSprite: "ceil-remove-map-building-container-open-ceiling-01.img"
             }),
             container_06: w({
                 open: !1,
                 tint: 12227840,
-                ceilingSprite: "map-building-container-ceiling-01.img",
+                ceilingSprite: "ceil-remove-map-building-container-ceiling-01.img",
                 loot_spawner_01: "loot_tier_sv98",
                 loot_spawner_02: "loot_tier_scopes_sniper"
             }),
