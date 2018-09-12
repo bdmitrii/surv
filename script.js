@@ -58594,7 +58594,7 @@ webpackJsonp([0], {
                 if (void 0 !== t.map.shapes)
                     i = t.map.shapes;
                 else {
-                    var r = "obstacle" == t.type ? t.collision : t.ceiling.scopeIn[0];
+                    var r = "obstacle" == t.type ? t.collision : t.ceiling.scopeOut[0];
                     i.push({
                         collider: m.copy(r),
                         scale: t.map.scale || 1,
