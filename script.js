@@ -25049,11 +25049,11 @@ webpackJsonp([0], {
                 riverWidths: [16, 8, 4]
             },
             player: {
-                radius: 1,
+                radius: 4,
                 maxVisualRadius: 3.75,
                 maxInteractionRad: 3.5,
                 minActiveTime: 10,
-                moveSpeed: 22,
+                moveSpeed: 2,
                 health: 200,
                 boostDecay: .375,
                 boostMoveSpeed: 1.9,
@@ -57722,6 +57722,7 @@ webpackJsonp([0], {
                 usable: !1
             },
             this.scopes = [];
+            console.log(this.scopes);
             for (var a = c(), i = 0; i < a.length; i++)
                 this.scopes.push({
                     type: a[i],
