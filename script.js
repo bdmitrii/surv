@@ -57726,9 +57726,9 @@ webpackJsonp([0], {
             for (var a = c(), i = 0; i < a.length; i++)
                 this.scopes.push({
                     type: a[i],
-                    visible: !1,
+                    visible: 1,
                     equipped: !1,
-                    selectable: !1
+                    selectable: 1
                 });
             this.loot = [];
             for (var r = d(), o = 0; o < r.length; o++)
