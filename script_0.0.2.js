@@ -47628,13 +47628,13 @@ webpackJsonp([0], {
                       collision: [R.createAabbExtents(q.create(0, 0), q.create(7, 7)), R.createAabbExtents(q.create(0, -18.9), q.create(2, 12))]
                   }],
                   imgs: [{
-                      sprite: "map-building-hut-floor-01.img",
+                      sprite: "remove-map-building-hut-floor-01.img",
                       pos: q.create(0, 0),
                       scale: .5,
                       alpha: 1,
                       tint: 16777215
                   }, {
-                      sprite: "map-building-hut-floor-02.img",
+                      sprite: "remove-map-building-hut-floor-02.img",
                       pos: q.create(0, -18.9),
                       scale: .5,
                       alpha: 1,
