@@ -44955,8 +44955,8 @@ webpackJsonp([0], {
           if ("building" == t.type) {
               for (var p = [], u = 0; u < t.floor.surfaces.length; u++)
                   p = p.concat(t.floor.surfaces[u].collision);
-              p = p.concat(t.ceiling.scopeIn);
-              //p = p.concat(t.ceiling.scopeOut);
+            //   p = p.concat(t.ceiling.scopeIn);
+              p = p.concat(t.ceiling.scopeOut);
               for (var h = 0; h < t.mapObjects.length; h++) {
                   var g = t.mapObjects[h]
                     , y = g.type;
