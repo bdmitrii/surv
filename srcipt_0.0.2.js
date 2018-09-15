@@ -27876,7 +27876,7 @@ webpackJsonp([0], {
               "15xscope": 104
           },
           bagSizes: {
-              "9mm": [240, 240, 330, 420],
+              "9mm": [120, 240, 330, 420],
               "762mm": [90, 180, 240, 300],
               "556mm": [90, 180, 240, 300],
               "12gauge": [15, 30, 60, 90],
@@ -56980,7 +56980,7 @@ webpackJsonp([0], {
               if (void 0 !== t.map.shapes)
                   i = t.map.shapes;
               else {
-                  var r = "obstacle" == t.type ? t.collision : t.ceiling.scopeOut[0];
+                  var r = "obstacle" == t.type ? t.collision : t.ceiling.scopeIn[0];
                   i.push({
                       collider: m.copy(r),
                       scale: t.map.scale || 1,
