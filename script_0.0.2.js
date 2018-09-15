@@ -47648,7 +47648,7 @@ webpackJsonp([0], {
                       width: 4
                   },
                   imgs: [{
-                      sprite: e.ceilingImg || "map-building-hut-ceiling-01.img",
+                      sprite: e.ceilingImg || "remove-map-building-hut-ceiling-01.img",
                       scale: .5,
                       alpha: 1,
                       tint: 16777215
