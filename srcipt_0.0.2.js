@@ -6841,7 +6841,7 @@ webpackJsonp([0], {
                       fadeRate: 12
                   }, l.ceiling.vision);
                   this.ceiling = {
-                      scopeIn: [],
+                      scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                       scopeOut: [],
                       vision: g,
                       visionTicker: 0,
@@ -45170,7 +45170,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, .75), q.create(2, 3.25))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, .75), q.create(2, 3.25))],
                   imgs: [{
                       sprite: "map-bunker-generic-ceiling-01.img",
@@ -45270,7 +45270,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(0, 0))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, 0), q.create(0, 0))],
                   imgs: []
               },
@@ -45455,7 +45455,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [e.open ? R.createAabbExtents(q.create(0, 0), q.create(2.5, 5.75)) : R.createAabbExtents(q.create(0, 2.25), q.create(2.5, 5.5))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [e.open ? R.createAabbExtents(q.create(0, 0), q.create(2.5, 11)) : R.createAabbExtents(q.create(0, -.5), q.create(2.5, 8.75))],
                   imgs: [{
                       sprite: e.ceilingSprite,
@@ -46028,7 +46028,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(6, 6))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, 0), q.create(6, 6))],
                   vision: {
                       width: 4
@@ -47170,7 +47170,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, 2.4), q.create(2.5, 5.75))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, 2.4), q.create(2.5, 5.75))],
                   imgs: [{
                       sprite: "map-building-container-ceiling-05.img",
@@ -47819,7 +47819,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(0, 0))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, 0), q.create(0, 0))],
                   imgs: []
               },
@@ -47980,7 +47980,7 @@ webpackJsonp([0], {
                       }]
                   },
                   ceiling: {
-                      scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(24.5, 12.25))],
+                      scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                       scopeOut: [R.createAabbExtents(q.create(0, 0), q.create(32, 12.5))],
                       vision: {
                           dist: 8,
@@ -48149,7 +48149,7 @@ webpackJsonp([0], {
                       }]
                   },
                   ceiling: {
-                      scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(22, 12.25))],
+                      scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                       scopeOut: [R.createAabbExtents(q.create(0, 0), q.create(27.5, 12.5))],
                       vision: {
                           dist: 8,
@@ -48375,7 +48375,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(0, 0))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, 0), q.create(0, 0))],
                   imgs: []
               },
@@ -48663,7 +48663,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, .9), q.create(5.6, 3.5))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, .8), q.create(5.9, 3.8))],
                   vision: {
                       width: 4
@@ -48754,7 +48754,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, 1), q.create(4.75, 3.75))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, 1), q.create(0, 0))],
                   vision: {
                       width: 4
@@ -48863,7 +48863,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, 1.45), q.create(3.6, 3.2))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, 1.4), q.create(3.8, 3.4))],
                   imgs: [{
                       sprite: "map-building-outhouse-ceiling.img",
@@ -49285,7 +49285,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(4.5, 6))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, 0), q.create(4.5, 6))],
                   imgs: [{
                       sprite: "map-building-panicroom-ceiling.img",
@@ -49413,7 +49413,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, -2), q.create(24.5, 12.8)), R.createAabbExtents(q.create(0, 12), q.create(5.5, 2.5))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, -14.5), q.create(5.5, 4)), R.createAabbExtents(q.create(0, 14.5), q.create(5.5, 4))],
                   vision: {
                       dist: 5.5,
@@ -49818,7 +49818,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(6, -1), q.create(11.25, 18.25)), R.createAabbExtents(q.create(21.5, 4), q.create(4.75, 7.25)), R.createAabbExtents(q.create(-16, 6), q.create(10.25, 11))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(6, 1.25), q.create(15.25, 20))],
                   vision: {
                       dist: 5.5,
@@ -50161,7 +50161,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(-3.5, 0), q.create(9.25, 10.5))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(-3.5, 0), q.create(10, 10.5))],
                   vision: {
                       dist: 7.25,
@@ -50365,7 +50365,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(-24.5, 8.5), q.create(17.75, 9.75)), R.createAabbExtents(q.create(-3.5, 12), q.create(3.5, 6.25)), R.createAabbExtents(q.create(10.35, 0), q.create(10.5, 22)), R.createAabbExtents(q.create(31.25, 12.5), q.create(10.75, 9.5))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(12, 0), q.create(12.75, 26))],
                   vision: {
                       dist: 5.5,
@@ -50919,7 +50919,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(14.5, 13))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, 0), q.create(16.5, 15))],
                   vision: {
                       dist: 5.5,
@@ -51195,7 +51195,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, .5), q.create(19, 12)), R.createAabbExtents(q.create(4, -13), q.create(3, 2))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, .5), q.create(21, 14)), R.createAabbExtents(q.create(4, -13), q.create(3, 2))],
                   vision: {
                       dist: 5.5,
@@ -51437,7 +51437,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [],
                   imgs: []
               },
@@ -51547,7 +51547,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(5, 3))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, 0), q.create(5, 3))],
                   imgs: [{
                       sprite: "map-building-saferoom-ceiling.img",
@@ -51635,7 +51635,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(-15, -22.4), q.create(17, 2.2)), R.createAabbExtents(q.create(-3.5, -2), q.create(28, 18.5)), R.createAabbExtents(q.create(-1.5, 20.6), q.create(12, 4.2))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(-15, -24.4), q.create(21, 4.2)), R.createAabbExtents(q.create(-3.5, -2), q.create(28, 18.5)), R.createAabbExtents(q.create(-9, 23.1), q.create(5, 6.7))],
                   vision: {
                       dist: 5.5,
@@ -52119,7 +52119,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(18, 3), q.create(7, 13)), R.createAabbExtents(q.create(5, 1.5), q.create(6, 12))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(18, 3), q.create(7, 13)), R.createAabbExtents(q.create(5, 1.5), q.create(6, 12))],
                   vision: {
                       dist: 5.5,
@@ -52348,7 +52348,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(0, 0))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, 0), q.create(0, 0))],
                   vision: {
                       dist: 5,
@@ -52436,7 +52436,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, -4.5), q.create(10, 9))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, -4.5), q.create(10, 9))],
                   imgs: [{
                       sprite: "map-bunker-egg-chamber-ceiling-01.img",
@@ -52576,7 +52576,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(19.25, 3.5), q.create(6.25, 5.5)), R.createAabbExtents(q.create(32.25, 3.5), q.create(6.75, 9.25))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(19.25, 3.5), q.create(6.25, 5.5)), R.createAabbExtents(q.create(32.25, 3.5), q.create(6.75, 9.25))],
                   imgs: [{
                       sprite: "map-bunker-hydra-ceiling-01.img",
@@ -52814,7 +52814,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(3.5, 2.25), q.create(10, 10)), R.createAabbExtents(q.create(-15, -77), q.create(5.5, 10.5)), R.createAabbExtents(q.create(38, -62), q.create(11.5, 8))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(3.5, 2.25), q.create(10, 10)), R.createAabbExtents(q.create(-15, -77), q.create(5.5, 10.5)), R.createAabbExtents(q.create(38, -62), q.create(11.5, 8))],
                   imgs: [{
                       sprite: "map-bunker-hydra-chamber-ceiling-01.img",
@@ -53087,7 +53087,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, 1.25), q.create(10, 10))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, 1.25), q.create(10, 10))],
                   imgs: [{
                       sprite: "map-bunker-hydra-compartment-ceiling-01.img",
@@ -53204,7 +53204,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(-2, 3), q.create(22.5, 19.5))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(-2, 3), q.create(22.5, 19.5))],
                   imgs: [{
                       sprite: "map-bunker-hydra-compartment-ceiling-02.img",
@@ -53437,7 +53437,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, .75), q.create(10, 7.75))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, .75), q.create(10, 7.75))],
                   imgs: [{
                       sprite: "map-bunker-hydra-compartment-ceiling-03.img",
@@ -53548,7 +53548,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, 10), q.create(3.5, 5.6))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, 10), q.create(3.8, 5.9))],
                   vision: {
                       dist: 5,
@@ -53669,7 +53669,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(8.5, -4.5), q.create(18, 9.1))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(8.5, -4.5), q.create(18, 9.1))],
                   imgs: [{
                       sprite: "map-bunker-storm-chamber-ceiling-01.img",
@@ -53872,7 +53872,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(19, 3.35), q.create(5.5, 2.5)), R.createAabbExtents(q.create(47.5, -32.55), q.create(5.5, 2.5))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(22, 3.35), q.create(8, 2.5)), R.createAabbExtents(q.create(50.5, -32.55), q.create(8, 2.5))],
                   imgs: [{
                       sprite: "map-bunker-conch-ceiling-01.img",
@@ -53978,7 +53978,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(1, 3.5), q.create(12.5, 5)), R.createAabbExtents(q.create(26.75, -30), q.create(14.75, 4.5))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(1, 3.5), q.create(12.5, 5)), R.createAabbExtents(q.create(26.75, -30), q.create(14.75, 4.5))],
                   imgs: [{
                       sprite: "map-bunker-conch-chamber-ceiling-01.img",
@@ -54144,7 +54144,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(-1.5, -1), q.create(12.5, 12)), R.createAabbExtents(q.create(9.5, -14.5), q.create(4, 2.5))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(-1.5, -1), q.create(12.5, 12)), R.createAabbExtents(q.create(9.5, -14.5), q.create(4, 2.5))],
                   imgs: [{
                       sprite: "map-bunker-conch-compartment-ceiling-01.img",
@@ -54321,7 +54321,7 @@ webpackJsonp([0], {
           bunker_crossing_stairs_01: h({}),
           bunker_crossing_stairs_02: h({
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, .75), q.create(2, 3.25))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, .75), q.create(2, 3.25))],
                   imgs: [{
                       sprite: "map-bunker-crossing-ceiling-01.img",
@@ -54358,7 +54358,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [],
                   imgs: []
               },
@@ -54432,7 +54432,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(-3, 27.5), q.create(35, 5)), R.createAabbExtents(q.create(3, -21.5), q.create(35, 5)), R.createAabbExtents(q.create(-4, 20.5), q.create(3, 3)), R.createAabbExtents(q.create(4, -14.5), q.create(3, 3))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(-3, -27.5), q.create(35, 5)), R.createAabbExtents(q.create(3, -21.5), q.create(35, 5)), R.createAabbExtents(q.create(-4, 20.5), q.create(3, 3)), R.createAabbExtents(q.create(4, -14.5), q.create(3, 3))],
                   imgs: [{
                       sprite: "map-bunker-crossing-chamber-ceiling-01.img",
@@ -54650,7 +54650,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(3.75, 2))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, 0), q.create(3.75, 2))],
                   imgs: [{
                       sprite: "map-building-crossing-bathroom-ceiling.img",
@@ -54703,7 +54703,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(4, 3), q.create(22, 14.5)), R.createAabbExtents(q.create(-22, -11), q.create(4.5, 9))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(4, 3), q.create(22, 14.5)), R.createAabbExtents(q.create(-22, -11), q.create(4.5, 9))],
                   imgs: [{
                       sprite: "map-bunker-crossing-compartment-ceiling-01.img",
@@ -55033,7 +55033,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(16.5, 7))],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [R.createAabbExtents(q.create(0, 0), q.create(16.5, 7))],
                   vision: {
                       dist: 10
@@ -55198,7 +55198,7 @@ webpackJsonp([0], {
                   imgs: []
               },
               ceiling: {
-                  scopeIn: [],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [],
                   vision: {
                       dist: 5.5,
@@ -55300,7 +55300,7 @@ webpackJsonp([0], {
                   }]
               },
               ceiling: {
-                  scopeIn: [],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [],
                   imgs: []
               },
@@ -55359,7 +55359,7 @@ webpackJsonp([0], {
                   imgs: []
               },
               ceiling: {
-                  scopeIn: [],
+                  scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(40, 25))],
                   scopeOut: [],
                   vision: {
                       dist: 5.5,
