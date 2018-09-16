@@ -49586,7 +49586,7 @@ webpackJsonp([0], {
           }),
           hut_01: D({}),
           hut_02: D({
-              ceilingImg: "map-building-hut-ceiling-02.img",
+              ceilingImg: "remove-map-building-hut-ceiling-02.img",
               specialLoot: "pot_02"
           }),
           screen_01: {
