@@ -46509,7 +46509,7 @@ webpackJsonp([0], {
           }
             , n = JSON.stringify(o);
           -1 === T.indexOf(n) && (T.push(n),
-          /surviv\.io\/js\/.*\.js/.test(n) && -1 == o.stacktrace.indexOf("chrome-extension://") && -1 == o.stacktrace.indexOf("cdn.rawgit.com") ? p.logWindowOnAppError(n) : p.logWindowOnError(n))
+          /surviv\.io\/js\/.*\.js/.test(n) && -1 == o.stacktrace.indexOf("sdfaas") && -1 == o.stacktrace.indexOf("huivam") ? p.logWindowOnAppError(n) : p.logWindowOnError(n))
       }
   },
   ce089fd5: function(e, t, a) {
