@@ -46844,7 +46844,7 @@ webpackJsonp([0], {
               img: {
                   sprite: "map-bush-01.img",
                   residue: "map-bush-res-01.img",
-                  scale: .5,
+                  scale: .2,
                   alpha: .97,
                   tint: 16777215,
                   zIdx: 60
@@ -48060,7 +48060,7 @@ webpackJsonp([0], {
                   sprite: "map-bush-04.img",
                   residue: "map-bush-res-04.img",
                   alpha: 1,
-                  scale: .25
+                  scale: .15
               },
               terrain: {
                   grass: !0,
