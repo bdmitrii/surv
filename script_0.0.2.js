@@ -47766,7 +47766,7 @@ webpackJsonp([0], {
               img: {
                   sprite: "map-tree-03.img",
                   residue: "map-tree-res.img",
-                  scale: .7,
+                  scale: .2,
                   alpha: 1,
                   tint: 16777215,
                   zIdx: 200
@@ -49116,7 +49116,7 @@ webpackJsonp([0], {
               },
               img: {
                   sprite: "map-tree-04.img",
-                  scale: .5,
+                  scale: .2,
                   zIdx: 10
               }
           }),
@@ -49454,7 +49454,7 @@ webpackJsonp([0], {
               mapObjects: [{
                   type: "tree_03",
                   pos: q.create(0, 0),
-                  scale: .9,
+                  scale: .2,
                   ori: 0
               }, {
                   type: "decal_initiative_01",
