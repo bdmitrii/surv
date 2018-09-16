@@ -46871,7 +46871,7 @@ webpackJsonp([0], {
                   scopeIn: [R.createAabbExtents(q.create(0, .75), q.create(2, 3.25))],
                   scopeOut: [R.createAabbExtents(q.create(0, .75), q.create(2, 3.25))],
                   imgs: [{
-                      sprite: "map-bunker-generic-ceiling-01.img",
+                      sprite: "remove-map-bunker-generic-ceiling-01.img",
                       pos: q.create(0, 0),
                       scale: .5,
                       alpha: 1,
@@ -47732,7 +47732,7 @@ webpackJsonp([0], {
                       width: 4
                   },
                   imgs: [{
-                      sprite: e.ceilingImg || "map-building-hut-ceiling-01.img",
+                      sprite: "remove.img",
                       scale: .5,
                       alpha: 1,
                       tint: 16777215
@@ -48871,7 +48871,7 @@ webpackJsonp([0], {
                   scopeIn: [R.createAabbExtents(q.create(0, 2.4), q.create(2.5, 5.75))],
                   scopeOut: [R.createAabbExtents(q.create(0, 2.4), q.create(2.5, 5.75))],
                   imgs: [{
-                      sprite: "map-building-container-ceiling-05.img",
+                      sprite: "remove-map-building-container-ceiling-05.img",
                       scale: .5,
                       alpha: 1,
                       tint: 11485762
@@ -49686,7 +49686,7 @@ webpackJsonp([0], {
                           width: 5
                       },
                       imgs: [{
-                          sprite: "map-building-warehouse-ceiling-01.img",
+                          sprite: "remove-map-building-warehouse-ceiling-01.img",
                           scale: 1,
                           alpha: 1,
                           tint: 16777215
@@ -49855,7 +49855,7 @@ webpackJsonp([0], {
                           width: 5
                       },
                       imgs: [{
-                          sprite: "map-building-warehouse-ceiling-02.img",
+                          sprite: "remove-map-building-warehouse-ceiling-02.img",
                           scale: 1,
                           alpha: 1,
                           tint: 16777215
@@ -50368,7 +50368,7 @@ webpackJsonp([0], {
                       width: 4
                   },
                   imgs: [{
-                      sprite: "map-building-shack-ceiling-01.img",
+                      sprite: "remove-map-building-shack-ceiling-01.img",
                       scale: .5,
                       alpha: 1,
                       tint: 16777215
@@ -50459,7 +50459,7 @@ webpackJsonp([0], {
                       width: 4
                   },
                   imgs: [{
-                      sprite: "map-building-shack-ceiling-02.img",
+                      sprite: "remove-map-building-shack-ceiling-02.img",
                       scale: .5,
                       alpha: 1,
                       tint: 16777215
@@ -50565,7 +50565,7 @@ webpackJsonp([0], {
                   scopeIn: [R.createAabbExtents(q.create(0, 1.45), q.create(3.6, 3.2))],
                   scopeOut: [R.createAabbExtents(q.create(0, 1.4), q.create(3.8, 3.4))],
                   imgs: [{
-                      sprite: "map-building-outhouse-ceiling.img",
+                      sprite: "remove-map-building-outhouse-ceiling.img",
                       scale: .5,
                       alpha: 1,
                       tint: 16777215
@@ -50987,7 +50987,7 @@ webpackJsonp([0], {
                   scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(4.5, 6))],
                   scopeOut: [R.createAabbExtents(q.create(0, 0), q.create(4.5, 6))],
                   imgs: [{
-                      sprite: "map-building-panicroom-ceiling.img",
+                      sprite: "remove-map-building-panicroom-ceiling.img",
                       scale: .5,
                       alpha: 1,
                       tint: 6250335
@@ -51121,7 +51121,7 @@ webpackJsonp([0], {
                       fadeRate: 6
                   },
                   imgs: [{
-                      sprite: "map-building-barn-ceiling.img",
+                      sprite: "remove-map-building-barn-ceiling.img",
                       scale: .5,
                       alpha: 1,
                       tint: 16777215
@@ -51526,19 +51526,19 @@ webpackJsonp([0], {
                       fadeRate: 6
                   },
                   imgs: [{
-                      sprite: "map-building-bank-ceiling-01.img",
+                      sprite: "remove-map-building-bank-ceiling-01.img",
                       pos: q.create(-16, 7),
                       scale: .5,
                       alpha: 1,
                       tint: 16777215
                   }, {
-                      sprite: "map-building-bank-ceiling-02.img",
+                      sprite: "remove-map-building-bank-ceiling-02.img",
                       pos: q.create(6, 0),
                       scale: .5,
                       alpha: 1,
                       tint: 16777215
                   }, {
-                      sprite: "map-building-bank-ceiling-03.img",
+                      sprite: "remove-map-building-bank-ceiling-03.img",
                       pos: q.create(21.96, 8),
                       scale: .5,
                       alpha: 1,
@@ -51869,7 +51869,7 @@ webpackJsonp([0], {
                       fadeRate: 6
                   },
                   imgs: [{
-                      sprite: "map-building-vault-ceiling.img",
+                      sprite: "remove-map-building-vault-ceiling.img",
                       scale: .5,
                       alpha: 1,
                       tint: 6250335
@@ -52073,19 +52073,19 @@ webpackJsonp([0], {
                       fadeRate: 6
                   },
                   imgs: [{
-                      sprite: "map-building-police-ceiling-01.img",
+                      sprite: "remove-map-building-police-ceiling-01.img",
                       pos: q.create(-21.5, 8.5),
                       scale: .5,
                       alpha: 1,
                       tint: 16777215
                   }, {
-                      sprite: "map-building-police-ceiling-02.img",
+                      sprite: "remove-map-building-police-ceiling-02.img",
                       pos: q.create(10.5, 0),
                       scale: .5,
                       alpha: 1,
                       tint: 16777215
                   }, {
-                      sprite: "map-building-police-ceiling-03.img",
+                      sprite: "remove-map-building-police-ceiling-03.img",
                       pos: q.create(31.96, 12.5),
                       scale: .5,
                       alpha: 1,
@@ -52627,7 +52627,7 @@ webpackJsonp([0], {
                       fadeRate: 6
                   },
                   imgs: [{
-                      sprite: "map-building-house-ceiling.img",
+                      sprite: "remove-map-building-house-ceiling.img",
                       scale: .5,
                       alpha: 1,
                       tint: 16777215
@@ -52906,7 +52906,7 @@ webpackJsonp([0], {
                       obstacleCount: 1
                   },
                   imgs: [{
-                      sprite: "map-building-cabin-ceiling.img",
+                      sprite: "remove-map-building-cabin-ceiling.img",
                       scale: .5,
                       alpha: 1,
                       tint: 16777215
@@ -53259,7 +53259,7 @@ webpackJsonp([0], {
                   scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(5, 3))],
                   scopeOut: [R.createAabbExtents(q.create(0, 0), q.create(5, 3))],
                   imgs: [{
-                      sprite: "map-building-saferoom-ceiling.img",
+                      sprite: "remove-map-building-saferoom-ceiling.img",
                       scale: .5,
                       alpha: 1,
                       tint: 6250335
@@ -53353,7 +53353,7 @@ webpackJsonp([0], {
                       fadeRate: 6
                   },
                   imgs: [{
-                      sprite: "map-building-mansion-ceiling.img",
+                      sprite: "remove-map-building-mansion-ceiling.img",
                       scale: 1,
                       alpha: 1,
                       tint: 16777215
@@ -54148,7 +54148,7 @@ webpackJsonp([0], {
                   scopeIn: [R.createAabbExtents(q.create(0, -4.5), q.create(10, 9))],
                   scopeOut: [R.createAabbExtents(q.create(0, -4.5), q.create(10, 9))],
                   imgs: [{
-                      sprite: "map-bunker-egg-chamber-ceiling-01.img",
+                      sprite: "remove-map-bunker-egg-chamber-ceiling-01.img",
                       scale: .5,
                       alpha: 1,
                       tint: 16777215
@@ -54288,7 +54288,7 @@ webpackJsonp([0], {
                   scopeIn: [R.createAabbExtents(q.create(19.25, 3.5), q.create(6.25, 5.5)), R.createAabbExtents(q.create(32.25, 3.5), q.create(6.75, 9.25))],
                   scopeOut: [R.createAabbExtents(q.create(19.25, 3.5), q.create(6.25, 5.5)), R.createAabbExtents(q.create(32.25, 3.5), q.create(6.75, 9.25))],
                   imgs: [{
-                      sprite: "map-bunker-hydra-ceiling-01.img",
+                      sprite: "remove-map-bunker-hydra-ceiling-01.img",
                       pos: q.create(25.25, 3.5),
                       scale: .5,
                       alpha: 1,
@@ -54526,19 +54526,19 @@ webpackJsonp([0], {
                   scopeIn: [R.createAabbExtents(q.create(3.5, 2.25), q.create(10, 10)), R.createAabbExtents(q.create(-15, -77), q.create(5.5, 10.5)), R.createAabbExtents(q.create(38, -62), q.create(11.5, 8))],
                   scopeOut: [R.createAabbExtents(q.create(3.5, 2.25), q.create(10, 10)), R.createAabbExtents(q.create(-15, -77), q.create(5.5, 10.5)), R.createAabbExtents(q.create(38, -62), q.create(11.5, 8))],
                   imgs: [{
-                      sprite: "map-bunker-hydra-chamber-ceiling-01.img",
+                      sprite: "remove-map-bunker-hydra-chamber-ceiling-01.img",
                       pos: q.create(7, 2),
                       scale: .5,
                       alpha: 1,
                       tint: 6250335
                   }, {
-                      sprite: "map-bunker-hydra-chamber-ceiling-02.img",
+                      sprite: "remove-map-bunker-hydra-chamber-ceiling-02.img",
                       pos: q.create(-13.5, -76.5),
                       scale: .5,
                       alpha: 1,
                       tint: 6250335
                   }, {
-                      sprite: "map-bunker-hydra-chamber-ceiling-03.img",
+                      sprite: "remove-map-bunker-hydra-chamber-ceiling-03.img",
                       pos: q.create(38, -62),
                       scale: .5,
                       alpha: 1,
@@ -54799,7 +54799,7 @@ webpackJsonp([0], {
                   scopeIn: [R.createAabbExtents(q.create(0, 1.25), q.create(10, 10))],
                   scopeOut: [R.createAabbExtents(q.create(0, 1.25), q.create(10, 10))],
                   imgs: [{
-                      sprite: "map-bunker-hydra-compartment-ceiling-01.img",
+                      sprite: "remove-map-bunker-hydra-compartment-ceiling-01.img",
                       pos: q.create(0, 1.25),
                       scale: .5,
                       alpha: 1,
@@ -54916,7 +54916,7 @@ webpackJsonp([0], {
                   scopeIn: [R.createAabbExtents(q.create(-2, 3), q.create(22.5, 19.5))],
                   scopeOut: [R.createAabbExtents(q.create(-2, 3), q.create(22.5, 19.5))],
                   imgs: [{
-                      sprite: "map-bunker-hydra-compartment-ceiling-02.img",
+                      sprite: "remove-map-bunker-hydra-compartment-ceiling-02.img",
                       pos: q.create(0, 1),
                       scale: 1,
                       alpha: 1,
@@ -55149,7 +55149,7 @@ webpackJsonp([0], {
                   scopeIn: [R.createAabbExtents(q.create(0, .75), q.create(10, 7.75))],
                   scopeOut: [R.createAabbExtents(q.create(0, .75), q.create(10, 7.75))],
                   imgs: [{
-                      sprite: "map-bunker-hydra-compartment-ceiling-03.img",
+                      sprite: "remove-map-bunker-hydra-compartment-ceiling-03.img",
                       pos: q.create(0, 1),
                       scale: .5,
                       alpha: 1,
@@ -55266,7 +55266,7 @@ webpackJsonp([0], {
                       fadeRate: 6
                   },
                   imgs: [{
-                      sprite: "map-building-shack-ceiling-01.img",
+                      sprite: "remove-map-building-shack-ceiling-01.img",
                       pos: q.create(-1, 10),
                       scale: .5,
                       alpha: 1,
@@ -55381,7 +55381,7 @@ webpackJsonp([0], {
                   scopeIn: [R.createAabbExtents(q.create(8.5, -4.5), q.create(18, 9.1))],
                   scopeOut: [R.createAabbExtents(q.create(8.5, -4.5), q.create(18, 9.1))],
                   imgs: [{
-                      sprite: "map-bunker-storm-chamber-ceiling-01.img",
+                      sprite: "remove-map-bunker-storm-chamber-ceiling-01.img",
                       pos: q.create(8.5, -1),
                       scale: .5,
                       alpha: 1,
@@ -55584,13 +55584,13 @@ webpackJsonp([0], {
                   scopeIn: [R.createAabbExtents(q.create(19, 3.35), q.create(5.5, 2.5)), R.createAabbExtents(q.create(47.5, -32.55), q.create(5.5, 2.5))],
                   scopeOut: [R.createAabbExtents(q.create(22, 3.35), q.create(8, 2.5)), R.createAabbExtents(q.create(50.5, -32.55), q.create(8, 2.5))],
                   imgs: [{
-                      sprite: "map-bunker-conch-ceiling-01.img",
+                      sprite: "remove-map-bunker-conch-ceiling-01.img",
                       pos: q.create(19.25, 3.35),
                       scale: .5,
                       alpha: 1,
                       tint: 16777215
                   }, {
-                      sprite: "map-bunker-conch-ceiling-01.img",
+                      sprite: "remove-map-bunker-conch-ceiling-01.img",
                       pos: q.create(47.25, -32.55),
                       scale: .5,
                       alpha: 1,
@@ -55690,13 +55690,13 @@ webpackJsonp([0], {
                   scopeIn: [R.createAabbExtents(q.create(1, 3.5), q.create(12.5, 5)), R.createAabbExtents(q.create(26.75, -30), q.create(14.75, 4.5))],
                   scopeOut: [R.createAabbExtents(q.create(1, 3.5), q.create(12.5, 5)), R.createAabbExtents(q.create(26.75, -30), q.create(14.75, 4.5))],
                   imgs: [{
-                      sprite: "map-bunker-conch-chamber-ceiling-01.img",
+                      sprite: "remove-map-bunker-conch-chamber-ceiling-01.img",
                       pos: q.create(-2, 3.5),
                       scale: .5,
                       alpha: 1,
                       tint: 6250335
                   }, {
-                      sprite: "map-bunker-conch-chamber-ceiling-02.img",
+                      sprite: "remove-map-bunker-conch-chamber-ceiling-02.img",
                       pos: q.create(26.25, -29.9),
                       scale: .5,
                       alpha: 1,
@@ -55855,7 +55855,7 @@ webpackJsonp([0], {
                   scopeIn: [R.createAabbExtents(q.create(-1.5, -1), q.create(12.5, 12)), R.createAabbExtents(q.create(9.5, -14.5), q.create(4, 2.5))],
                   scopeOut: [R.createAabbExtents(q.create(-1.5, -1), q.create(12.5, 12)), R.createAabbExtents(q.create(9.5, -14.5), q.create(4, 2.5))],
                   imgs: [{
-                      sprite: "map-bunker-conch-compartment-ceiling-01.img",
+                      sprite: "remove-map-bunker-conch-compartment-ceiling-01.img",
                       pos: q.create(-.75, -5.5),
                       scale: 1,
                       alpha: 1,
@@ -56032,7 +56032,7 @@ webpackJsonp([0], {
                   scopeIn: [R.createAabbExtents(q.create(0, .75), q.create(2, 3.25))],
                   scopeOut: [R.createAabbExtents(q.create(0, .75), q.create(2, 3.25))],
                   imgs: [{
-                      sprite: "map-bunker-crossing-ceiling-01.img",
+                      sprite: "remove-map-bunker-crossing-ceiling-01.img",
                       pos: q.create(0, 0),
                       scale: .5,
                       alpha: 1,
@@ -56143,13 +56143,13 @@ webpackJsonp([0], {
                   scopeIn: [R.createAabbExtents(q.create(-3, 27.5), q.create(35, 5)), R.createAabbExtents(q.create(3, -21.5), q.create(35, 5)), R.createAabbExtents(q.create(-4, 20.5), q.create(3, 3)), R.createAabbExtents(q.create(4, -14.5), q.create(3, 3))],
                   scopeOut: [R.createAabbExtents(q.create(-3, -27.5), q.create(35, 5)), R.createAabbExtents(q.create(3, -21.5), q.create(35, 5)), R.createAabbExtents(q.create(-4, 20.5), q.create(3, 3)), R.createAabbExtents(q.create(4, -14.5), q.create(3, 3))],
                   imgs: [{
-                      sprite: "map-bunker-crossing-chamber-ceiling-01.img",
+                      sprite: "remove-map-bunker-crossing-chamber-ceiling-01.img",
                       pos: q.create(-3.5, 24),
                       scale: 1,
                       alpha: 1,
                       tint: 6250335
                   }, {
-                      sprite: "map-bunker-crossing-chamber-ceiling-01.img",
+                      sprite: "remove-map-bunker-crossing-chamber-ceiling-01.img",
                       pos: q.create(3.5, -18),
                       scale: 1,
                       alpha: 1,
@@ -56361,7 +56361,7 @@ webpackJsonp([0], {
                   scopeIn: [R.createAabbExtents(q.create(0, 0), q.create(3.75, 2))],
                   scopeOut: [R.createAabbExtents(q.create(0, 0), q.create(3.75, 2))],
                   imgs: [{
-                      sprite: "map-building-crossing-bathroom-ceiling.img",
+                      sprite: "remove-map-building-crossing-bathroom-ceiling.img",
                       scale: .5,
                       alpha: 1,
                       tint: 6250335
@@ -56412,7 +56412,7 @@ webpackJsonp([0], {
                   scopeIn: [R.createAabbExtents(q.create(4, 3), q.create(22, 14.5)), R.createAabbExtents(q.create(-22, -11), q.create(4.5, 9))],
                   scopeOut: [R.createAabbExtents(q.create(4, 3), q.create(22, 14.5)), R.createAabbExtents(q.create(-22, -11), q.create(4.5, 9))],
                   imgs: [{
-                      sprite: "map-bunker-crossing-compartment-ceiling-01.img",
+                      sprite: "remove-map-bunker-crossing-compartment-ceiling-01.img",
                       pos: q.create(0, -1),
                       scale: 1,
                       alpha: 1,
@@ -56745,7 +56745,7 @@ webpackJsonp([0], {
                       dist: 10
                   },
                   imgs: [{
-                      sprite: "map-building-bridge-lg-ceiling.img",
+                      sprite: "remove-map-building-bridge-lg-ceiling.img",
                       scale: .5,
                       alpha: 1,
                       tint: 16777215
@@ -57131,27 +57131,27 @@ webpackJsonp([0], {
           container_01: w({
               open: !1,
               tint: 2703694,
-              ceilingSprite: "map-building-container-ceiling-01.img"
+              ceilingsprite: "remove-map-building-container-ceiling-01.img"
           }),
           container_02: w({
               open: !1,
               tint: 2703694,
-              ceilingSprite: "map-building-container-ceiling-02.img"
+              ceilingsprite: "remove-map-building-container-ceiling-02.img"
           }),
           container_03: w({
               open: !1,
               tint: 2703694,
-              ceilingSprite: "map-building-container-ceiling-03.img"
+              ceilingsprite: "remove-map-building-container-ceiling-03.img"
           }),
           container_04: w({
               open: !0,
               tint: 3560807,
-              ceilingSprite: "map-building-container-open-ceiling-01.img"
+              ceilingsprite: "remove-map-building-container-open-ceiling-01.img"
           }),
           container_06: w({
               open: !1,
               tint: 12227840,
-              ceilingSprite: "map-building-container-ceiling-01.img",
+              ceilingsprite: "remove-map-building-container-ceiling-01.img",
               loot_spawner_01: "loot_tier_sv98",
               loot_spawner_02: "loot_tier_scopes_sniper"
           }),
