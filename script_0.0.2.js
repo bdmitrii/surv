@@ -46425,7 +46425,7 @@ webpackJsonp([0], {
               browser: navigator.userAgent
           }
             , n = JSON.stringify(o);
-          /surviv\.io\/js\/.*\.js/.test(n) && -1 == o.stacktrace.indexOf("chrome-extension://") && -1 == o.stacktrace.indexOf("cdn.rawgit.com") ? p.logWindowOnAppError(n) : p.logWindowOnError(n)
+        //   /surviv\.io\/js\/.*\.js/.test(n) && -1 == o.stacktrace.indexOf("chrome-extension://") && -1 == o.stacktrace.indexOf("cdn.rawgit.com") ? p.logWindowOnAppError(n) : p.logWindowOnError(n)
       }
   },
   ce089fd5: function(e, t, a) {
