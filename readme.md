@@ -3,3 +3,7 @@
 
 Поиск лачуги: `sprite: (.*\|\|.*.img")`
 Замена: `sprite: "remove.img"`
+
+Поиск деревьев: `sprite: "map.*tree.*img`
+
+Поиск кустов: `sprite: "map.*bush.*img`

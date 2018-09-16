@@ -46928,7 +46928,7 @@ webpackJsonp([0], {
               img: {
                   sprite: "map-bush-01.img",
                   residue: "map-bush-res-01.img",
-                  scale: .5,
+                  scale: .2,
                   alpha: .97,
                   tint: 16777215,
                   zIdx: 60
@@ -47850,7 +47850,7 @@ webpackJsonp([0], {
               img: {
                   sprite: "map-tree-03.img",
                   residue: "map-tree-res.img",
-                  scale: .7,
+                  scale: .3,
                   alpha: 1,
                   tint: 16777215,
                   zIdx: 200
@@ -48144,7 +48144,7 @@ webpackJsonp([0], {
                   sprite: "map-bush-04.img",
                   residue: "map-bush-res-04.img",
                   alpha: 1,
-                  scale: .25
+                  scale: .15
               },
               terrain: {
                   grass: !0,
@@ -49201,7 +49201,7 @@ webpackJsonp([0], {
               },
               img: {
                   sprite: "map-tree-04.img",
-                  scale: .5,
+                  scale: .3,
                   zIdx: 10
               }
           }),
